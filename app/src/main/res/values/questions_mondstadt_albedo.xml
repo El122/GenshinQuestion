@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="albedo_phrase">«Хочешь изучить происхождение мира? Значит, нам с тобой по пути.»</string>
+
+    <string name="level_albedo">Альбедо</string>
+    <string name="question_albedo_1">Кто создал Альбедо</string>
+    <string name="question_albedo_2">Почему Альбедо редко показывается на людях</string>
+    <string name="question_albedo_3">Кто ассистенты Альбедо</string>
+    <string name="question_albedo_4">Благодаря чему Альбедо остался в Мондштадте</string>
+    <string name="question_albedo_5">Каким титулом наградила Альбедо его учитель</string>
+    <string name="question_albedo_6">Что нашли Альбедо со своим учителем, прежде чем она исчезла</string>
+    <string name="question_albedo_7">На чем фокусируется алхимия Альбедо</string>
+    <string name="question_albedo_8">Какую книгу иллюстрировал Альбедо</string>
+    <string name="question_albedo_9">Что приносит Альбедо истиную радость</string>
+    <string name="question_albedo_10">Какой Глаз Бога у Альбедо</string>
+    <string name="question_albedo_11">Что хотел сделать Альбедо с Паймон</string>
+    <string name="question_albedo_12">Чем занимается Альбедо в свободное от рисования и экспериментов время</string>
+    <string name="question_albedo_13">Какое хобби у Альбедо</string>
+    <string name="question_albedo_14">Любимая еда Альбедо</string>
+    <string name="question_albedo_15">Последняя ступень алхимического процесса трансмутации</string>
+    <string name="question_albedo_16">Альбедо в алхимии</string>
+    <string name="question_albedo_17">Чем является наряд Альбедо</string>
+
+    <string name="question_albedo_1_1">Рэйндоттир</string>
+    <string name="question_albedo_1_2">Алиса</string>
+    <string name="question_albedo_1_3">Селестия</string>
+    <string name="question_albedo_1_4">Хеврия</string>
+
+    <string name="question_albedo_2_1">На поддержание теплых отношений нужно много сил</string>
+    <string name="question_albedo_2_2">На общение с людьми нужно много времени</string>
+    <string name="question_albedo_2_3">Он не любит общаться с людьми</string>
+    <string name="question_albedo_2_4">Ему сложно общаться с людьми</string>
+
+    <string name="question_albedo_3_1">Тиммей и Сахароза</string>
+    <string name="question_albedo_3_2">Сахароза и Кли</string>
+    <string name="question_albedo_3_3">Тиммей и Лиза</string>
+    <string name="question_albedo_3_4">Мона и Сахароза</string>
+
+    <string name="question_albedo_4_1">Рекомендательному письму от учителя</string>
+    <string name="question_albedo_4_2">Своему таланту в области алхимии</string>
+    <string name="question_albedo_4_3">Личной просьбе прошлого алхимика</string>
+    <string name="question_albedo_4_4">Он всегда жил в Мондштадте</string>
+
+    <string name="question_albedo_5_1">Принц мела</string>
+    <string name="question_albedo_5_2">Магистр алхимии</string>
+    <string name="question_albedo_5_3">Цветок солнца</string>
+    <string name="question_albedo_5_4">Дурин</string>
+
+    <string name="question_albedo_6_1">Артефакт «Сердце Набериуса»</string>
+    <string name="question_albedo_6_2">Меч «Киноварное веретено»</string>
+    <string name="question_albedo_6_3">Древний алхимический рецепт</string>
+    <string name="question_albedo_6_4">Тайну Каэнри\'ах</string>
+
+    <string name="question_albedo_7_1">Создание жизни</string>
+    <string name="question_albedo_7_2">Улучшение мира</string>
+    <string name="question_albedo_7_3">Разрушение зла</string>
+    <string name="question_albedo_7_4">Открытие бездны</string>
+
+    <string name="question_albedo_8_1">«Легенда о клинке»</string>
+    <string name="question_albedo_8_2">«Цветы для принцессы Фишль»</string>
+    <string name="question_albedo_8_3">«Легенда о разбитой алебарде»</string>
+    <string name="question_albedo_8_4">«Путеводитель по Тейвату»</string>
+
+    <string name="question_albedo_9_1">То, как непознанное становится познанным</string>
+    <string name="question_albedo_9_2">То, как создается и развивается жизнь</string>
+    <string name="question_albedo_9_3">То, как меняется материя</string>
+    <string name="question_albedo_9_4">То, как нематериальное становится материальным</string>
+
+    <string name="question_albedo_10_1">Гео</string>
+    <string name="question_albedo_10_2">Анемо</string>
+    <string name="question_albedo_10_3">Дендро</string>
+    <string name="question_albedo_10_4">Крио</string>
+
+    <string name="question_albedo_11_1">Одолжить для опытов</string>
+    <string name="question_albedo_11_2">Съесть</string>
+    <string name="question_albedo_11_3">Изучить</string>
+    <string name="question_albedo_11_4">Подружиться</string>
+
+    <string name="question_albedo_12_1">Читает романы из Инадзумы и Ли Юэ</string>
+    <string name="question_albedo_12_2">Наблюдает за процессами, происходящими в природе</string>
+    <string name="question_albedo_12_3">Играет с Кли</string>
+    <string name="question_albedo_12_4">Изучает исследования ученых из Сумеру</string>
+
+    <string name="question_albedo_13_1">Рисование</string>
+    <string name="question_albedo_13_2">Исследования</string>
+    <string name="question_albedo_13_3">Эксперименты</string>
+    <string name="question_albedo_13_4">Чтение</string>
+
+    <string name="question_albedo_14_1">Десерты</string>
+    <string name="question_albedo_14_2">Супы</string>
+    <string name="question_albedo_14_3">Мясо</string>
+    <string name="question_albedo_14_4">Острая</string>
+
+    <string name="question_albedo_15_1">Цинтринитас</string>
+    <string name="question_albedo_15_2">Рубедо</string>
+    <string name="question_albedo_15_3">Альбедо</string>
+    <string name="question_albedo_15_4">Нигредо</string>
+
+    <string name="question_albedo_16_1">Ступень, на которой начинаются изменения </string>
+    <string name="question_albedo_16_2">Ступень, выходящая из первородных форм</string>
+    <string name="question_albedo_16_3">Очищение чувств</string>
+    <string name="question_albedo_16_4">Трансмутация</string>
+
+    <string name="question_albedo_17_1">Формой алхимиков в Ордо Фавониус</string>
+    <string name="question_albedo_17_2">Формой ученика из Каэнри\'ах</string>
+    <string name="question_albedo_17_3">Подаренный Сахарозой костюм ручной работы</string>
+    <string name="question_albedo_17_4">Одеждой, в которой он путешествовал с учителем</string>
+</resources>

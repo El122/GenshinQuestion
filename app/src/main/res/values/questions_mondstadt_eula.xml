@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eula_phrase">«Хочешь потанцевать с преступником?»</string>
+
+    <string name="level_eula">Эола</string>
+    <string name="question_eula_1">Из какого рода происходит Эола</string>
+    <string name="question_eula_2">Где Эола проводит большую часть времени</string>
+    <string name="question_eula_3">Кем считают Эолу жители Мондштадта</string>
+    <string name="question_eula_4">Кем является Эола в ордене</string>
+    <string name="question_eula_5">Кто помогал Эоле изменить к ней отношение жителей Мондштадта</string>
+    <string name="question_eula_6">Как называется герб клана Лоуренс</string>
+    <string name="question_eula_7">С помощью какого лука Лоуренсы утвердили свою победу над мерзлыми пустошами</string>
+    <string name="question_eula_8">Как Эола получила герб клана</string>
+    <string name="question_eula_9">Какое звание у Эолы</string>
+    <string name="question_eula_10">Где располагается отряд Эолы</string>
+    <string name="question_eula_11">Чего желает Эола</string>
+    <string name="question_eula_12">Какой Глаз Бога у Эолы</string>
+    <string name="question_eula_13">Какой предмет есть у Эолы</string>
+    <string name="question_eula_14">Почему Эоле нравится ритуальный танец</string>
+    <string name="question_eula_15">Кто был учителем Эолы</string>
+    <string name="question_eula_16">Что не любит есть Эола</string>
+    <string name="question_eula_17">Кого ищет Эола</string>
+
+    <string name="question_eula_1_1">Лоуренс</string>
+    <string name="question_eula_1_2">Гуннхильдр</string>
+    <string name="question_eula_1_3">Рагнвиндр</string>
+    <string name="question_eula_1_4">Альберих</string>
+
+    <string name="question_eula_2_1">В дикой природе</string>
+    <string name="question_eula_2_2">В городе</string>
+    <string name="question_eula_2_3">Дома</string>
+    <string name="question_eula_2_4">В штабе Ордо Фавониус</string>
+
+    <string name="question_eula_3_1">Олицетворением преступников</string>
+    <string name="question_eula_3_2">Потомком преступников</string>
+    <string name="question_eula_3_3">Защитником Мондштадта</string>
+    <string name="question_eula_3_4">Высокомерной аристократкой</string>
+
+    <string name="question_eula_4_1">Командиром разведки</string>
+    <string name="question_eula_4_2">Командиром восьмой роты</string>
+    <string name="question_eula_4_3">Рыцарем</string>
+    <string name="question_eula_4_4">Искателем приключений</string>
+
+    <string name="question_eula_5_1">Эмбер</string>
+    <string name="question_eula_5_2">Джинн</string>
+    <string name="question_eula_5_3">Кэйа</string>
+    <string name="question_eula_5_4">Мона</string>
+
+    <string name="question_eula_6_1">Печать льда</string>
+    <string name="question_eula_6_2">Ледяная роза</string>
+    <string name="question_eula_6_3">Морозный лев</string>
+    <string name="question_eula_6_4">Меч Стужи</string>
+
+    <string name="question_eula_7_1">Церемониальный лук</string>
+    <string name="question_eula_7_2">Бесструнный</string>
+    <string name="question_eula_7_3">Охотник во тьме</string>
+    <string name="question_eula_7_4">Лука Амоса</string>
+
+    <string name="question_eula_8_1">Прошла испытания</string>
+    <string name="question_eula_8_2">Потому что она Лоуренс</string>
+    <string name="question_eula_8_3">Сдала экзамен</string>
+    <string name="question_eula_8_4">Стала шпионом в Ордо Фавониус</string>
+
+    <string name="question_eula_9_1">Рыцарь Морская пена</string>
+    <string name="question_eula_9_2">Принцесса Осуждения</string>
+    <string name="question_eula_9_3">Рыцарь Одуванчик</string>
+    <string name="question_eula_9_4">Капитан Белая Ласточка</string>
+
+    <string name="question_eula_10_1">Недалеко от побережья</string>
+    <string name="question_eula_10_2">Рядом с Мондштадтом</string>
+    <string name="question_eula_10_3">В горах Буревестника</string>
+    <string name="question_eula_10_4">У подножия Снежного Хребта</string>
+
+    <string name="question_eula_11_1">Получить одобрение мира</string>
+    <string name="question_eula_11_2">Вернуть величие клана Лоуренс</string>
+    <string name="question_eula_11_3">Очистить свое имя</string>
+    <string name="question_eula_11_4">Стать главой Ордо Фавониус</string>
+
+    <string name="question_eula_12_1">Крио</string>
+    <string name="question_eula_12_2">Гидро</string>
+    <string name="question_eula_12_3">Дендро</string>
+    <string name="question_eula_12_4">Анемо</string>
+
+    <string name="question_eula_13_1">Костяной свисток</string>
+    <string name="question_eula_13_2">Черепаший гребень</string>
+    <string name="question_eula_13_3">Каменный герб</string>
+    <string name="question_eula_13_4">Золотая печать</string>
+
+    <string name="question_eula_14_1">Он дал ей покой и утешение</string>
+    <string name="question_eula_14_2">Это единственное что ей нравится в традициях клана</string>
+    <string name="question_eula_14_3">Благодаря нему она может отдохнуть</string>
+    <string name="question_eula_14_4">Он нравится ей своей красотой</string>
+
+    <string name="question_eula_15_1">Дедушка Эмбер</string>
+    <string name="question_eula_15_2">Магистр Варка</string>
+    <string name="question_eula_15_3">Путешественник из Сумеру</string>
+    <string name="question_eula_15_4">Лиза</string>
+
+    <string name="question_eula_16_1">Густые супы</string>
+    <string name="question_eula_16_2">Острую еду из Ли Юэ</string>
+    <string name="question_eula_16_3">Простые блюда</string>
+    <string name="question_eula_16_4">Горячее мясо</string>
+
+    <string name="question_eula_17_1">Неизвестно</string>
+    <string name="question_eula_17_2">Своего родственника</string>
+    <string name="question_eula_17_3">Эроха</string>
+    <string name="question_eula_17_4">Дедушку Эмбер</string>
+</resources>

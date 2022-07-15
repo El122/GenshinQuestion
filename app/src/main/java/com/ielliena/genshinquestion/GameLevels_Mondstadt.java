@@ -174,6 +174,34 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
                 } catch (Exception e) {}
             }
         });
+
+        TextView buttonEula = (TextView) findViewById(R.id.buttonEula);
+        final int eulaResult = save.getInt("Eula", 0);
+        buttonEula.setText(getString(R.string.level_eula) + " " + eulaResult + "/17");
+        buttonEula.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Eula.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonAlbedo = (TextView) findViewById(R.id.buttonAlbedo);
+        final int albedoResult = save.getInt("Albedo", 0);
+        buttonAlbedo.setText(getString(R.string.level_albedo) + " " + albedoResult + "/17");
+        buttonAlbedo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Albedo.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
     }
 
     @Override

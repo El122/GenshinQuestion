@@ -264,7 +264,7 @@
                 android:layout_marginBottom="20dp"
                 android:background="@drawable/start_btn"
                 android:textAllCaps="false"
-                android:text="@string/answer4" />
+                android:text="@string/answer4"/>
 
         </LinearLayout>
 
