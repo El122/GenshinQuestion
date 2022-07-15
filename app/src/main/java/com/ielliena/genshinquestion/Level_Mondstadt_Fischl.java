@@ -20,7 +20,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
-public class Level_Mondstadt_Klee extends AppCompatActivity {
+public class Level_Mondstadt_Fischl extends AppCompatActivity {
 
     Dialog modalEnd;
 
@@ -85,27 +85,27 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
         Button answer3 = (Button)findViewById(R.id.answer3);
         Button answer4 = (Button)findViewById(R.id.answer4);
 
-        questionText.setText(array.questions_klee[questionNumber]);
+        questionText.setText(array.questions_fischl[questionNumber]);
 
         numAnswer1 = random.nextInt(4);
-        answer1.setText(array.answers_klee[questionNumber][numAnswer1]);
+        answer1.setText(array.answers_fischl[questionNumber][numAnswer1]);
 
         numAnswer2 = random.nextInt(4);
         while(numAnswer1 == numAnswer2) numAnswer2 = random.nextInt(4);
-        answer2.setText(array.answers_klee[questionNumber][numAnswer2]);
+        answer2.setText(array.answers_fischl[questionNumber][numAnswer2]);
 
         numAnswer3 = random.nextInt(4);
         while(numAnswer3 == numAnswer2 || numAnswer3 == numAnswer1) numAnswer3 = random.nextInt(4);
-        answer3.setText(array.answers_klee[questionNumber][numAnswer3]);
+        answer3.setText(array.answers_fischl[questionNumber][numAnswer3]);
 
         numAnswer4 = random.nextInt(4);
         while(numAnswer4 == numAnswer2 || numAnswer4 == numAnswer1 || numAnswer4 == numAnswer3) numAnswer4 = random.nextInt(4);
-        answer4.setText(array.answers_klee[questionNumber][numAnswer4]);
+        answer4.setText(array.answers_fischl[questionNumber][numAnswer4]);
     }
 
     public void backToLevelsMenu() {
         try {
-            Intent intent = new Intent(Level_Mondstadt_Klee.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Fischl.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}
@@ -113,7 +113,7 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
 
     protected void checkAnswer(int clickedButton) {
         ImageView questionImage = (ImageView)findViewById(R.id.questionImage);
-        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt_Klee.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt_Fischl.this, R.anim.alpha);
 
         if(clickedButton == 0) {
             questionImage.setImageResource(R.drawable.question_image);
@@ -135,6 +135,17 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
                             answersResult[questionNumber] == -1 ? R.drawable.style_points_false : R.drawable.style_points_true);
     }
 
+    protected void saveResult() {
+        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+        SharedPreferences.Editor editor = save.edit();
+        int trueAnswers = 0;
+        for(int num : answersResult) {
+            if (num == 1) ++trueAnswers;
+        }
+        editor.putInt("Fischl", trueAnswers);
+        editor.commit();
+    }
+
     protected void callDialog() {
         modalEnd = new Dialog(this);
         modalEnd.requestWindowFeature(Window.FEATURE_NO_TITLE);
@@ -145,15 +156,15 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
         TextView modalEndText = (TextView) modalEnd.findViewById(R.id.modalEndText);
         ImageView modalEndImage = (ImageView) modalEnd.findViewById(R.id.modalEndImage);
 
-        modalEndText.setText(R.string.klee_phrase);
-        modalEndImage.setImageResource(R.drawable.klee_modal);
+        modalEndText.setText(R.string.fischl_phrase);
+        modalEndImage.setImageResource(R.drawable.fischl_modal);
 
         TextView backMenu = (TextView) modalEnd.findViewById(R.id.backMenu);
         backMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt_Klee.this, GameLevels_Mondstadt.class);
+                    Intent intent = new Intent(Level_Mondstadt_Fischl.this, GameLevels_Mondstadt.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -166,7 +177,7 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt_Klee.this, Level_Mondstadt_Fischl.class);
+                    Intent intent = new Intent(Level_Mondstadt_Fischl.this, GameLevels_Mondstadt.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -175,17 +186,6 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
         });
 
         modalEnd.show();
-    }
-
-    protected void saveResult() {
-        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
-        SharedPreferences.Editor editor = save.edit();
-        int trueAnswers = 0;
-        for(int num : answersResult) {
-            if (num == 1) ++trueAnswers;
-        }
-        editor.putInt("Klee", trueAnswers);
-        editor.commit();
     }
 
     @Override
@@ -205,7 +205,7 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
         });
 
         TextView text_levels = findViewById(R.id.levelName);
-        text_levels.setText(R.string.level_klee);
+        text_levels.setText(R.string.level_fischl);
 
         Button answer1 = (Button)findViewById(R.id.answer1);
         Button answer2 = (Button)findViewById(R.id.answer2);
@@ -312,7 +312,7 @@ public class Level_Mondstadt_Klee extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         try {
-            Intent intent = new Intent(Level_Mondstadt_Klee.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Fischl.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}

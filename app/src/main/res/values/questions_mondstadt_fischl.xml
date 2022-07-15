@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fischl_phrase">«Мы с тобой - из другого мира. Похоже, нас свела судьба.»</string>
+
+    <string name="level_fischl">Фишль</string>
+    <string name="question_fischl_1">Какое полное имя у Фишль</string>
+    <string name="question_fischl_2">Какое настоящее имя у Фишль</string>
+    <string name="question_fischl_3">Как называется созвездие Фишль</string>
+    <string name="question_fischl_4">Какой титул у Фишль</string>
+    <string name="question_fischl_5">Как себя называет Фишль</string>
+    <string name="question_fischl_6">Чем является прозвище Принцесса Осуждения</string>
+    <string name="question_fischl_7">Как Фишль попала в Тейват</string>
+    <string name="question_fischl_8">Каково главное преимущество Фишль перед другими следователями Гильдии</string>
+    <string name="question_fischl_9">Как Фишль получила работу следователем Гильдии</string>
+    <string name="question_fischl_10">Где рассказывается о встрече Оза и Фишль</string>
+    <string name="question_fischl_11">Какое полное имя у Оза</string>
+    <string name="question_fischl_12">Кем является Оз</string>
+    <string name="question_fischl_13">Какой Глаз Бога у Фишль</string>
+    <string name="question_fischl_14">Что было раньше, Глаз Бога или Оз?</string>
+    <string name="question_fischl_15">Почему Фишль не смогла вклиниться в общество</string>
+    <string name="question_fischl_16">Как Фишль называет Глаз Бога</string>
+    <string name="question_fischl_17">Какое хобби у Фишль</string>
+
+    <string name="question_fischl_1_1">Фишль фон Люфтшлосс-Нарфидорт</string>
+    <string name="question_fischl_1_2">Фишль Люфтшлосс-Нарфидорт</string>
+    <string name="question_fischl_1_3">Фишль Оз</string>
+    <string name="question_fischl_1_4">Фишль</string>
+
+    <string name="question_fischl_2_1">Эмми</string>
+    <string name="question_fischl_2_2">Фишль</string>
+    <string name="question_fischl_2_3">Мона</string>
+    <string name="question_fischl_2_4">Нелли</string>
+
+    <string name="question_fischl_3_1">Призрачный Ворон</string>
+    <string name="question_fischl_3_2">Громовой Ворон</string>
+    <string name="question_fischl_3_3">Лунный Ворон</string>
+    <string name="question_fischl_3_4">Звездный Ворон</string>
+
+    <string name="question_fischl_4_1">Владыка Нирваны ночи</string>
+    <string name="question_fischl_4_2">Принцесса Ворон</string>
+    <string name="question_fischl_4_3">Принцесса Осуждения</string>
+    <string name="question_fischl_4_4">Владыка всего сущего</string>
+
+    <string name="question_fischl_5_1">Принцесса Осуждения</string>
+    <string name="question_fischl_5_2">Владыка Нирваны ночи</string>
+    <string name="question_fischl_5_3">Владыка всего сущего</string>
+    <string name="question_fischl_5_4">Принцесса Ворон</string>
+
+    <string name="question_fischl_6_1">Названием Божесственной Алебарды, созданной Королем-Богом в 6 томе Легенды о разбитой алебарде</string>
+    <string name="question_fischl_6_2">Титулом главного героя в 6 томе Легенды о разбитой алебарде</string>
+    <string name="question_fischl_6_3">Именем Короля-Бога в 6 томе Легенды о разбитой алебарде</string>
+    <string name="question_fischl_6_4">Титулом принцессы, которую украл Король-Бог в 6 томе Легенды о разбитой алебарде</string>
+
+    <string name="question_fischl_7_1">Она была изгнана из потустороннего мира, зовущимся Нирваной ночи</string>
+    <string name="question_fischl_7_2">Она путешествовала между мирами, покинув свой мир, зовущийся Нирваной ночи</string>
+    <string name="question_fischl_7_3">Ей пришлось покинуть свой мир, называемый Нирваной ночи, потому что он был разрушен</string>
+    <string name="question_fischl_7_4">Ее отправили в Тейват, чтобы спасти его, из мира, называемого Нирваной ночи</string>
+
+    <string name="question_fischl_8_1">Оз</string>
+    <string name="question_fischl_8_2">То что она из другого мира</string>
+    <string name="question_fischl_8_3">Глаз Бога</string>
+    <string name="question_fischl_8_4">То что она принцесса</string>
+
+    <string name="question_fischl_9_1">Благодаря рекоммендациям родителей</string>
+    <string name="question_fischl_9_2">Благодаря своим талантам</string>
+    <string name="question_fischl_9_3">Благодаря Глазу Бога</string>
+    <string name="question_fischl_9_4">Благодаря Озу</string>
+
+    <string name="question_fischl_10_1">В первом томе Цветы для Фишль</string>
+    <string name="question_fischl_10_2">В 6 томе Легенды о разбитой алебарде</string>
+    <string name="question_fischl_10_3">В личном дневнике Фишль</string>
+    <string name="question_fischl_10_4">Во втором томе Цветы для Фишль</string>
+
+    <string name="question_fischl_11_1">Озвальдо Храфнавинс</string>
+    <string name="question_fischl_11_2">Озвальдо Рагнвиндр</string>
+    <string name="question_fischl_11_3">Озвальдо фон Люфтшлосс-Нарфидорт</string>
+    <string name="question_fischl_11_4">Озвальдо Минчи</string>
+
+    <string name="question_fischl_12_1">Королем воронов</string>
+    <string name="question_fischl_12_2">Духом ворона</string>
+    <string name="question_fischl_12_3">Призраком ворона</string>
+    <string name="question_fischl_12_4">Вороном, получившим Глаз Бога</string>
+
+    <string name="question_fischl_13_1">Электро</string>
+    <string name="question_fischl_13_2">Анемо</string>
+    <string name="question_fischl_13_3">Крио</string>
+    <string name="question_fischl_13_4">Гидро</string>
+
+    <string name="question_fischl_14_1">Они появились одновременно</string>
+    <string name="question_fischl_14_2">Глаз Бога</string>
+    <string name="question_fischl_14_3">Оз</string>
+    <string name="question_fischl_14_4">Они существуеют только в фантазии Фишль</string>
+
+    <string name="question_fischl_15_1">Из-за любви к романам и фантазиям</string>
+    <string name="question_fischl_15_2">Она ненавидит общество</string>
+    <string name="question_fischl_15_3">Ей не разрешали общаться с людьми</string>
+    <string name="question_fischl_15_4">Ей не нужно было общество</string>
+
+    <string name="question_fischl_16_1">Мистический шар бездны</string>
+    <string name="question_fischl_16_2">Признание, дарованное богами этого мира</string>
+    <string name="question_fischl_16_3">Сфера хранящая силу</string>
+    <string name="question_fischl_16_4">Глаз Правосудия</string>
+
+    <string name="question_fischl_17_1">Читать романы</string>
+    <string name="question_fischl_17_2">Путешествовать</string>
+    <string name="question_fischl_17_3">Готовить</string>
+    <string name="question_fischl_17_4">Вышивать</string>
+</resources>

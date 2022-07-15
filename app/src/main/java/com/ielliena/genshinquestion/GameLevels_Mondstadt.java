@@ -148,13 +148,27 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonKlee = (TextView) findViewById(R.id.buttonKlee);
-        final int monaKlee = save.getInt("Klee", 0);
-        buttonKlee.setText(getString(R.string.level_klee) + " " + monaKlee + "/17");
+        final int kleeResult = save.getInt("Klee", 0);
+        buttonKlee.setText(getString(R.string.level_klee) + " " + kleeResult + "/17");
         buttonKlee.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 try{
                     Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Klee.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonFischl = (TextView) findViewById(R.id.buttonFischl);
+        final int fischlResult = save.getInt("Fischl", 0);
+        buttonFischl.setText(getString(R.string.level_fischl) + " " + fischlResult + "/17");
+        buttonFischl.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Fischl.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
