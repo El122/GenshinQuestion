@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mona_phrase">«Судьбу нельзя изменить, ей нельзя противиться, её можно только принять. Поэтому она называется судьбой.»</string>
+
+    <string name="level_mona">Мона</string>
+    <string name="question_mona_1">Полное имя Моны</string>
+    <string name="question_mona_2">Какое созвездие у Моны</string>
+    <string name="question_mona_3">Что использует Мона в астрологии</string>
+    <string name="question_mona_4">Чем Мона питалась месяц чтобы сэкономить</string>
+    <string name="question_mona_5">На что Мона тратить мору</string>
+    <string name="question_mona_6">Что является стаблильным источником дохода Моны</string>
+    <string name="question_mona_7">Зачем Мона встречается с Альбедо и Кли, кроме как для обсуждения достижений в своей области</string>
+    <string name="question_mona_8">Как называется колонка, которую Мона ведет в газете Паровая птица</string>
+    <string name="question_mona_9">Как решила отметить первый гонорар с газеты Мона</string>
+    <string name="question_mona_10">Откуда у Моны Глаз Бога</string>
+    <string name="question_mona_11">Кто является закадычным врагом наставницы Моны</string>
+    <string name="question_mona_12">Зачем Мона прибыла в Мондштадт</string>
+    <string name="question_mona_13">Почему Мона осталась в Мондштадте</string>
+    <string name="question_mona_14">Какой Глаз Бога у Моны</string>
+    <string name="question_mona_15">Через что по мнению Моны открывается истина о судьбе</string>
+    <string name="question_mona_16">Как Мона относится к наставнице</string>
+    <string name="question_mona_17">Какое значение для Моны имеет Глаз Бога</string>
+
+    <string name="question_mona_1_1">Астролог Мона Мегистус</string>
+    <string name="question_mona_1_2">Мона</string>
+    <string name="question_mona_1_3">Мона Минчи</string>
+    <string name="question_mona_1_4">Магистр Мона Минчи</string>
+
+    <string name="question_mona_2_1">Багровая Заря</string>
+    <string name="question_mona_2_2">Багровый Закат</string>
+    <string name="question_mona_2_3">Багровое Созвездие</string>
+    <string name="question_mona_2_4">Багровая Ночь</string>
+
+    <string name="question_mona_3_1">Гидромантию</string>
+    <string name="question_mona_3_2">Знаки зодиака</string>
+    <string name="question_mona_3_3">Руны</string>
+    <string name="question_mona_3_4">Некромантию</string>
+
+    <string name="question_mona_4_1">Грибами</string>
+    <string name="question_mona_4_2">Закатниками</string>
+    <string name="question_mona_4_3">Рыбой</string>
+    <string name="question_mona_4_4">Слаймами</string>
+
+    <string name="question_mona_5_1">Астрологические приборы и материалы</string>
+    <string name="question_mona_5_2">Еду</string>
+    <string name="question_mona_5_3">У нее нет моры</string>
+    <string name="question_mona_5_4">Копит на обучение в Сумеру</string>
+
+    <string name="question_mona_6_1">Гонорары за колонку в Паровой Птице</string>
+    <string name="question_mona_6_2">Гадания для жителей Мондштадта</string>
+    <string name="question_mona_6_3">Задания в гильдии искателей приключений</string>
+    <string name="question_mona_6_4">Помощь Ордо Фавониус</string>
+
+    <string name="question_mona_7_1">Бесплатно пообедать</string>
+    <string name="question_mona_7_2">Обсудить дела в Мондштадте</string>
+    <string name="question_mona_7_3">Ей нравится Альбедо</string>
+    <string name="question_mona_7_4">Они незнакомы</string>
+
+    <string name="question_mona_8_1">Беседы об астрологии</string>
+    <string name="question_mona_8_2">Беседы со звездами</string>
+    <string name="question_mona_8_3">Астрологические беседы</string>
+    <string name="question_mona_8_4">Беды с астрологами</string>
+
+    <string name="question_mona_9_1">Покупкой звездного глобуса</string>
+    <string name="question_mona_9_2">Покупкой астролябия</string>
+    <string name="question_mona_9_3">Роскошным ужином</string>
+    <string name="question_mona_9_4">Покупкой карты звездного неба</string>
+
+    <string name="question_mona_10_1">Его подарила наставница</string>
+    <string name="question_mona_10_2">Она получила его во время обучения</string>
+    <string name="question_mona_10_3">Он появился когда она научилась астрологии</string>
+    <string name="question_mona_10_4">У нее нет Глаза Бога</string>
+
+    <string name="question_mona_11_1">Алиса</string>
+    <string name="question_mona_11_2">Джинн</string>
+    <string name="question_mona_11_3">Розария</string>
+    <string name="question_mona_11_4">Фатуи</string>
+
+    <string name="question_mona_12_1">Забрать секретный сундучок наставницы</string>
+    <string name="question_mona_12_2">Разгадать загадку наставницы</string>
+    <string name="question_mona_12_3">Победить наследника врага наставницы</string>
+    <string name="question_mona_12_4">Изучать астрологию</string>
+
+    <string name="question_mona_13_1">Испугалась наставницы, чей секрет случайно узнала</string>
+    <string name="question_mona_13_2">Ей понравился город свободы</string>
+    <string name="question_mona_13_3">Она узнала о наставнице то что ей не понравилось</string>
+    <string name="question_mona_13_4">Наставница хотела чтобы она осталась учить Кли</string>
+
+    <string name="question_mona_14_1">Гидро</string>
+    <string name="question_mona_14_2">Крио</string>
+    <string name="question_mona_14_3">Электро</string>
+    <string name="question_mona_14_4">Анемо</string>
+
+    <string name="question_mona_15_1">Отражение на воде</string>
+    <string name="question_mona_15_2">Звездное небо</string>
+    <string name="question_mona_15_3">Линиям на руках</string>
+    <string name="question_mona_15_4">Видения</string>
+
+    <string name="question_mona_16_1">Защищает ее образ, но язвит над ней</string>
+    <string name="question_mona_16_2">Она ее уважает</string>
+    <string name="question_mona_16_3">Она ее боится</string>
+    <string name="question_mona_16_4">Она ей не нравится, но она это скрывает</string>
+
+    <string name="question_mona_17_1">Никакого</string>
+    <string name="question_mona_17_2">Она его очень ценит</string>
+    <string name="question_mona_17_3">Благодаря нему она может заниматься астрологией</string>
+    <string name="question_mona_17_4">У нее нет Глаза Бога</string>
+</resources>

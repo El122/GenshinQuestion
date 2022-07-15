@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lisa_phrase">«Присядь, поболтаем, а работа никуда не убежит!»</string>
+
+    <string name="level_lisa">Лиза</string>
+    <string name="question_lisa_1">Какое полное имя у Лизы</string>
+    <string name="question_lisa_2">Какое созвездие у Лизы</string>
+    <string name="question_lisa_3">Что входит в обязанности Лизы кроме упорядочивания книг</string>
+    <string name="question_lisa_4">Что делает Лиза до обеда</string>
+    <string name="question_lisa_5">Что делат Лиза после обеда</string>
+    <string name="question_lisa_6">Что делает Лиза вечером</string>
+    <string name="question_lisa_7">От чего происходит ее высокая эффективность во всех делах</string>
+    <string name="question_lisa_8">Кем хотели назначить Лизу, когда она только вступила в Ордо Фавониус</string>
+    <string name="question_lisa_9">Почему Лиза покину Сумеру</string>
+    <string name="question_lisa_10">Что Лиза считает самым приятным в своей распорядке</string>
+    <string name="question_lisa_11">Как Лиза получила Глаз Бога</string>
+    <string name="question_lisa_12">Какой Глаз Бога у Лизы</string>
+    <string name="question_lisa_13">Как Лиза называет Путешественника</string>
+    <string name="question_lisa_14">Что ненавидит Лиза</string>
+    <string name="question_lisa_15">Какая должность у Лизы</string>
+    <string name="question_lisa_16">Какой инструмент создала Лиза</string>
+    <string name="question_lisa_17">Что помогла найти Лиза</string>
+
+    <string name="question_lisa_1_1">Лиза Минчи</string>
+    <string name="question_lisa_1_2">Елизавета Рагнвиндр</string>
+    <string name="question_lisa_1_3">Лиза Гуннхильдр</string>
+    <string name="question_lisa_1_4">Елизавета Альберих</string>
+
+    <string name="question_lisa_2_1">Песочные Часы</string>
+    <string name="question_lisa_2_2">Ведьмина Шляпа</string>
+    <string name="question_lisa_2_3">Заколдованная Тыква</string>
+    <string name="question_lisa_2_4">Древний Гримуар</string>
+
+    <string name="question_lisa_3_1">Учет запаса зелий</string>
+    <string name="question_lisa_3_2">Выбивание долгов</string>
+    <string name="question_lisa_3_3">Защита Мондштадта</string>
+    <string name="question_lisa_3_4">Слежение за Фатуи</string>
+
+    <string name="question_lisa_4_1">Отсыпается</string>
+    <string name="question_lisa_4_2">Работает</string>
+    <string name="question_lisa_4_3">Встречается с друзьями</string>
+    <string name="question_lisa_4_4">Изготавливает зелья</string>
+
+    <string name="question_lisa_5_1">Наслаждается чаем</string>
+    <string name="question_lisa_5_2">Занимается учебой</string>
+    <string name="question_lisa_5_3">Отдыхает от работы</string>
+    <string name="question_lisa_5_4">Плавает в озере</string>
+
+    <string name="question_lisa_6_1">Отдыхает после рабочего сна</string>
+    <string name="question_lisa_6_2">Пьет чай с Джинн</string>
+    <string name="question_lisa_6_3">Проверяет все ли книги вернули</string>
+    <string name="question_lisa_6_4">Готовиться ко сну</string>
+
+    <string name="question_lisa_7_1">Из-за врожденной лени и избегающей неприятностей натуры</string>
+    <string name="question_lisa_7_2">Из-за высокого уровня ответственности и любви к работе </string>
+    <string name="question_lisa_7_3">Благодаря тому что она очень любит свою работу и всегда уделяет ей все время</string>
+    <string name="question_lisa_7_4">Потому что она привыкла все делать хорошо и сразу, когда училась в Сумеру</string>
+
+    <string name="question_lisa_8_1">Капитаном восьмой роты</string>
+    <string name="question_lisa_8_2">Почетным рыцарем</string>
+    <string name="question_lisa_8_3">Главой Ордо Фавониус</string>
+    <string name="question_lisa_8_4">Капитаном кавалерии</string>
+
+    <string name="question_lisa_9_1">Она поняла какой эффект оказывает безграничное море знаний на человека</string>
+    <string name="question_lisa_9_2">Ей стало лень учиться и она решила найти несложную работу</string>
+    <string name="question_lisa_9_3">Ее исключили за лень </string>
+    <string name="question_lisa_9_4">Она получила все доступные знания и ей больше нечего было там делать</string>
+
+    <string name="question_lisa_10_1">Чаепитие</string>
+    <string name="question_lisa_10_2">Работа</string>
+    <string name="question_lisa_10_3">Обучение</string>
+    <string name="question_lisa_10_4">Отдых</string>
+
+    <string name="question_lisa_11_1">Она подумала что он ей нужен чтобы изучать элементы</string>
+    <string name="question_lisa_11_2">Она получила его потому что много училась</string>
+    <string name="question_lisa_11_3">Она сама его сделала, когда училась в Сумеру</string>
+    <string name="question_lisa_11_4">Она очень хотела чтобы он у нее был</string>
+
+    <string name="question_lisa_12_1">Электро</string>
+    <string name="question_lisa_12_2">Анемо</string>
+    <string name="question_lisa_12_3">Пиро</string>
+    <string name="question_lisa_12_4">Гидро</string>
+
+    <string name="question_lisa_13_1">Милашка</string>
+    <string name="question_lisa_13_2">Великий рыцарь</string>
+    <string name="question_lisa_13_3">По имени</string>
+    <string name="question_lisa_13_4">Картошка</string>
+
+    <string name="question_lisa_14_1">Тыквы</string>
+    <string name="question_lisa_14_2">Тыквы</string>
+    <string name="question_lisa_14_3">Опасности</string>
+    <string name="question_lisa_14_4">Людей</string>
+
+    <string name="question_lisa_15_1">Библиотекарь</string>
+    <string name="question_lisa_15_2">Рыцарь</string>
+    <string name="question_lisa_15_3">Генарал </string>
+    <string name="question_lisa_15_4">Глава</string>
+
+    <string name="question_lisa_16_1">Котел особого нагревания</string>
+    <string name="question_lisa_16_2">Автоматическую молнию для тех кто не сдает книги вовремя</string>
+    <string name="question_lisa_16_3">Волшебную палочку</string>
+    <string name="question_lisa_16_4">Электрический чайник</string>
+
+    <string name="question_lisa_17_1">Архипелаг Золотого яблока</string>
+    <string name="question_lisa_17_2">Небесную Лиру</string>
+    <string name="question_lisa_17_3">Лагерь Фатуи</string>
+    <string name="question_lisa_17_4">Анемо Архонта</string>
+</resources>

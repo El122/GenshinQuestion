@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/modalEnd"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/start_btn"
+    android:layout_gravity="center"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/modalEndImage"
+            android:layout_width="match_parent"
+            android:layout_weight="50"
+            android:src="@drawable/venti_modal"
+            android:layout_marginTop="50dp"
+            android:layout_marginHorizontal="74dp"
+            android:layout_marginBottom="45dp"
+            android:layout_height="0dp"/>
+
+        <TextView
+            android:id="@+id/modalEndText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="45dp"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:text=""/>
+
+        <TextView
+            android:id="@+id/nextLevel"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_anemo"
+            android:paddingTop="5dp"
+            android:paddingBottom="7dp"
+            android:text="@string/next_level"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/backMenu"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/start_btn"
+            android:paddingTop="5dp"
+            android:paddingBottom="7dp"
+            android:text="@string/back_menu"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

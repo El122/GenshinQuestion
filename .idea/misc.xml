@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/back_btn.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_anemo.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_cryo.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_dendro.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_electro.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_geo.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_gydro.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_pyro.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/header.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/start_btn.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_anemo_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_anemo_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_cryo_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_cryo_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_dendro_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_dendro_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_electo_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_electro_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_electro_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_geo_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_geo_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_gydro_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_gydro_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_pyro_active.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_pyro_default.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_points.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_points_false.xml" value="0.225" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_points_true.xml" value="0.225" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-large/activity_main.xml" value="0.24969211822660098" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-large/gamelevels_mondstadt.xml" value="0.3145424836601307" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-large/universal_mondstat.xml" value="0.24969211822660098" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-normal/activity_main.xml" value="0.36730072463768115" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-normal/gamelevels_mondstadt.xml" value="0.36730072463768115" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-normal/universal_mondstat.xml" value="0.36730072463768115" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-smal/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/activity_main.xml" value="1.25" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/gamelevels_mondstadt.xml" value="1.3338815789473684" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/universal_mondstat.xml" value="1.1428571428571428" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/activity_main.xml" value="0.24969211822660098" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/gamelevels_mondstadt.xml" value="0.24969211822660098" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/universal_mondstat.xml" value="0.21" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels.xml" value="0.371875" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels_mondstadt.xml" value="0.371875" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/modalend.xml" value="0.20885416666666667" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/universal_mondstat.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

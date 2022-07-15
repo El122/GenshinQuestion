@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diluc_phrase">«Я буду идти вперёд, пока не настанет рассвет.»</string>
+
+    <string name="level_diluc">Дилюк</string>
+    <string name="question_diluc_1">Как называет себя и Дилюка Кэйа</string>
+    <string name="question_diluc_2">Почему Дилюк презирает Ордо Фавониус</string>
+    <string name="question_diluc_3">Что Кэйа подарил Дилюку</string>
+    <string name="question_diluc_4">Что предпочитает пить Дилюк</string>
+    <string name="question_diluc_5">Как Паймон называет Дилюка</string>
+    <string name="question_diluc_6">Что означает имя Дилюка Рагнвиндр</string>
+    <string name="question_diluc_7">Как называется винокурня Дилюка</string>
+    <string name="question_diluc_8">О чем мечтал отец Дилюка</string>
+    <string name="question_diluc_9">Как умер отец Дилюка Крепус</string>
+    <string name="question_diluc_10">Что сделал Дилюк после того как покинул Ордо Фавониус</string>
+    <string name="question_diluc_11">Как называется созвездие Дилюка</string>
+    <string name="question_diluc_12">Чем занимался Дилюк во время своего путешествия</string>
+    <string name="question_diluc_13">Почему Диона ненавидит Дилюка</string>
+    <string name="question_diluc_14">Какой домашний питомец был у Дилюка в детсве</string>
+    <string name="question_diluc_15">Что Дилюк сделал для непьющего населения Мондштадта</string>
+    <string name="question_diluc_16">Какой Глаз Бога у Дилюка</string>
+    <string name="question_diluc_17">Сколько лет длилось путешествие Дилюка</string>
+
+    <string name="question_diluc_1_1">Антигероями со сложными отношениями</string>
+    <string name="question_diluc_1_2">Любимыми братишками</string>
+    <string name="question_diluc_1_3">Страшными врагами</string>
+    <string name="question_diluc_1_4">Истиными защитниками Мондштадта</string>
+
+    <string name="question_diluc_2_1">Потому что орден списал смерть его отца на несчастный случай</string>
+    <string name="question_diluc_2_2">Он считает что они ничего не умеют</string>
+    <string name="question_diluc_2_3">Потому что в ордене состоит Кэйа</string>
+    <string name="question_diluc_2_4">Они хотели закрыть его винокурню чтобы поддерживать трезвость Мондштадта</string>
+
+    <string name="question_diluc_3_1">Вазу</string>
+    <string name="question_diluc_3_2">Лошадь</string>
+    <string name="question_diluc_3_3">Себя</string>
+    <string name="question_diluc_3_4">Картину</string>
+
+    <string name="question_diluc_4_1">Виноградный сок</string>
+    <string name="question_diluc_4_2">Вино</string>
+    <string name="question_diluc_4_3">Огненную воду</string>
+    <string name="question_diluc_4_4">Чай</string>
+
+    <string name="question_diluc_5_1">Капитан справедливость</string>
+    <string name="question_diluc_5_2">Полуночный герой</string>
+    <string name="question_diluc_5_3">Бэтмен</string>
+    <string name="question_diluc_5_4">Они не знакомы</string>
+
+    <string name="question_diluc_6_1">Рассвет дома ветра</string>
+    <string name="question_diluc_6_2">Закат дома ветра</string>
+    <string name="question_diluc_6_3">Восстание дома ветра</string>
+    <string name="question_diluc_6_4">Свет дома ветра</string>
+
+    <string name="question_diluc_7_1">Рассвет</string>
+    <string name="question_diluc_7_2">Закат</string>
+    <string name="question_diluc_7_3">Восстание</string>
+    <string name="question_diluc_7_4">Свет</string>
+
+    <string name="question_diluc_8_1">Чтобы Дилюк стал почетным рыцарем и защищал свободу Мондштадта</string>
+    <string name="question_diluc_8_2">Чтобы Дилюк продолжил заниматься производством вина</string>
+    <string name="question_diluc_8_3">Чтобы он стал пастором церкви Фавония</string>
+    <string name="question_diluc_8_4">Чтобы он стал дипломатом</string>
+
+    <string name="question_diluc_9_1">Из-за глаза порчи</string>
+    <string name="question_diluc_9_2">Из-за нападения чудовищ</string>
+    <string name="question_diluc_9_3">Из-за предательства Ордо Фавониус</string>
+    <string name="question_diluc_9_4">Из-за фатуи</string>
+
+    <string name="question_diluc_10_1">Отправился в путешествие</string>
+    <string name="question_diluc_10_2">Занялся производством вина</string>
+    <string name="question_diluc_10_3">Ушел в монастырь</string>
+    <string name="question_diluc_10_4">Уехал учиться в Сумеру</string>
+
+    <string name="question_diluc_11_1">Мудрая Сова</string>
+    <string name="question_diluc_11_2">Мудрый Филин</string>
+    <string name="question_diluc_11_3">Огненный Ворон</string>
+    <string name="question_diluc_11_4">Огненный Орел</string>
+
+    <string name="question_diluc_12_1">Присоединился к подпольной организации и следил за Фатуи</string>
+    <string name="question_diluc_12_2">Отдыхал</string>
+    <string name="question_diluc_12_3">Искал новые виды вина</string>
+    <string name="question_diluc_12_4">Он не отправлялся в путешествие</string>
+
+    <string name="question_diluc_13_1">Она считает что без него не было бы винной индустрии и вина и они с отцом могли бы проводить время вместе</string>
+    <string name="question_diluc_13_2">Ей не нравится алкоголь, все кто его употребляют и производят</string>
+    <string name="question_diluc_13_3">Она считает его своим конкурентом</string>
+    <string name="question_diluc_13_4">Потому что он ненавидит кошек</string>
+
+    <string name="question_diluc_14_1">Черепашка</string>
+    <string name="question_diluc_14_2">Кошка</string>
+    <string name="question_diluc_14_3">Кэйа</string>
+    <string name="question_diluc_14_4">Собака</string>
+
+    <string name="question_diluc_15_1">Безалкогольные напитки</string>
+    <string name="question_diluc_15_2">Эксклюзивную линейку соков</string>
+    <string name="question_diluc_15_3">Занялся выращиванием чая</string>
+    <string name="question_diluc_15_4">Споил их</string>
+
+    <string name="question_diluc_16_1">Пиро</string>
+    <string name="question_diluc_16_2">Анемо</string>
+    <string name="question_diluc_16_3">Электро</string>
+    <string name="question_diluc_16_4">Крио</string>
+
+    <string name="question_diluc_17_1">3 года</string>
+    <string name="question_diluc_17_2">4 года</string>
+    <string name="question_diluc_17_3">5 месяцев</string>
+    <string name="question_diluc_17_4">30 лет</string>
+</resources>

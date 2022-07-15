@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="klee_phrase">«Возьми меня с собой поиграть!»</string>
+
+    <string name="level_klee">Кли</string>
+    <string name="question_klee_1">Как называется совездие Кли</string>
+    <string name="question_klee_2">Чем владеет Кли</string>
+    <string name="question_klee_3">Что является любимой игрушкой Кли</string>
+    <string name="question_klee_4">Почему Кли не смогла приехать в Разлом</string>
+    <string name="question_klee_5">Как зовут маму Кли</string>
+    <string name="question_klee_6">Кто является кумиром Кли</string>
+    <string name="question_klee_7">Кто является первым и лучшим другом Кли</string>
+    <string name="question_klee_8">Как Кли получила Глаз Бога</string>
+    <string name="question_klee_9">Какое хобби есть у Кли</string>
+    <string name="question_klee_10">Что Кли подарила Алиса перед тем как уехала</string>
+    <string name="question_klee_11">Какой Глаз Бога у Кли</string>
+    <string name="question_klee_12">С чем Кли помогла Эмбер</string>
+    <string name="question_klee_13">Какой титул носит Кли</string>
+    <string name="question_klee_14">Как появились слухи о Красном рыцаре гор Буревестника</string>
+    <string name="question_klee_15">Кто заботится о Кли, пока Алиса путешествует</string>
+    <string name="question_klee_16">Кем Мона считает Альбедо</string>
+    <string name="question_klee_17">Кто помог Кли написать Правила выживания в Ордо Фавониус</string>
+
+    <string name="question_klee_1_1">Четырехлистный Клевер</string>
+    <string name="question_klee_1_2">Додо Король</string>
+    <string name="question_klee_1_3">Взрыв Удачи</string>
+    <string name="question_klee_1_4">Сокровище Кли</string>
+
+    <string name="question_klee_2_1">Пиротехникой</string>
+    <string name="question_klee_2_2">Пиромантией</string>
+    <string name="question_klee_2_3">Бомбами</string>
+    <string name="question_klee_2_4">Фейерверками</string>
+
+    <string name="question_klee_3_1">Взрывчатка</string>
+    <string name="question_klee_3_2">Додоко</string>
+    <string name="question_klee_3_3">Бомбы</string>
+    <string name="question_klee_3_4">Маги Бездны</string>
+
+    <string name="question_klee_4_1">Она была в тюрьме</string>
+    <string name="question_klee_4_2">Ее не отпустила Джинн</string>
+    <string name="question_klee_4_3">Она не захотела ехать</string>
+    <string name="question_klee_4_4">Ей незачем было туда ехать</string>
+
+    <string name="question_klee_5_1">Алиса</string>
+    <string name="question_klee_5_2">Джинн</string>
+    <string name="question_klee_5_3">Кэйа</string>
+    <string name="question_klee_5_4">Катерина</string>
+
+    <string name="question_klee_6_1">Алиса</string>
+    <string name="question_klee_6_2">Джинн</string>
+    <string name="question_klee_6_3">Кэйа</string>
+    <string name="question_klee_6_4">Альбедо</string>
+
+    <string name="question_klee_7_1">Додоко</string>
+    <string name="question_klee_7_2">Альбедо</string>
+    <string name="question_klee_7_3">Алиса</string>
+    <string name="question_klee_7_4">Джинн</string>
+
+    <string name="question_klee_8_1">Когда взорвала свою мастерскую</string>
+    <string name="question_klee_8_2">Когда взорвала Горы Буревестника</string>
+    <string name="question_klee_8_3">Когда взорвала таверну Дилюка</string>
+    <string name="question_klee_8_4">Когда глушила рыбу</string>
+
+    <string name="question_klee_9_1">Глушить рыбу</string>
+    <string name="question_klee_9_2">Собирать цветы</string>
+    <string name="question_klee_9_3">Охотиться на кабанов</string>
+    <string name="question_klee_9_4">Помогать Ноэлль</string>
+
+    <string name="question_klee_10_1">Куклу</string>
+    <string name="question_klee_10_2">Рецепт взрывчатки</string>
+    <string name="question_klee_10_3">Фейерверки</string>
+    <string name="question_klee_10_4">Путеводитель по Тейвату</string>
+
+    <string name="question_klee_11_1">Пиро</string>
+    <string name="question_klee_11_2">Электро</string>
+    <string name="question_klee_11_3">Крио</string>
+    <string name="question_klee_11_4">Анемо</string>
+
+    <string name="question_klee_12_1">С улучшение Барона Зайчика</string>
+    <string name="question_klee_12_2">С зачисткой лагеря хиличурлов</string>
+    <string name="question_klee_12_3">С созданием Барона Зайчика</string>
+    <string name="question_klee_12_4">С защитой Мондштадта</string>
+
+    <string name="question_klee_13_1">Рыцарь Искорка</string>
+    <string name="question_klee_13_2">Рыцарь Удачи</string>
+    <string name="question_klee_13_3">Додо Король</string>
+    <string name="question_klee_13_4">Почетный рыцарь</string>
+
+    <string name="question_klee_14_1">Кли снесла половину гор Буревестника, когда помогала отражать нападение хиличурлов</string>
+    <string name="question_klee_14_2">Кли помогла охотникам за сокровищами на горах Буревестника</string>
+    <string name="question_klee_14_3">Кли сожгла все что было на горах, когда охотилась на кабанов</string>
+    <string name="question_klee_14_4">Кли разрушила огромный лагерь Фатуи на горах Буревестника и запустила в нем фейерверки</string>
+
+    <string name="question_klee_15_1">Альбедо и Ордо Фавониус</string>
+    <string name="question_klee_15_2">Джинн</string>
+    <string name="question_klee_15_3">Дилюк</string>
+    <string name="question_klee_15_4">Кэйа и Ордо Фавониус</string>
+
+    <string name="question_klee_16_1">Братиком</string>
+    <string name="question_klee_16_2">Папой</string>
+    <string name="question_klee_16_3">Дядей</string>
+    <string name="question_klee_16_4">Другом</string>
+
+    <string name="question_klee_17_1">Кэйа</string>
+    <string name="question_klee_17_2">Джинн</string>
+    <string name="question_klee_17_3">Альбедо</string>
+    <string name="question_klee_17_4">Мона</string>
+</resources>

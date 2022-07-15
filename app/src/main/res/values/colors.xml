@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#46110B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mainWhite">#FFF0DC</color>
+    <color name="mainWhite_op">#80FFF0DC</color>
+    <color name="textColor">#3B1D1B</color>
+    <color name="textColor_back">#60FFF0DC</color>
+
+    <color name="anemo">#10997D</color>
+    <color name="anemo_op">#7010997D</color>
+    <color name="gydro">#1996C4</color>
+    <color name="gydro_op">#701996C4</color>
+    <color name="pyro">#BF1B24</color>
+    <color name="pyro_op">#70BF1B24</color>
+    <color name="electro">#7C62BD</color>
+    <color name="electro_op">#707C62BD</color>
+    <color name="dendro">#73B32B</color>
+    <color name="dendro_op">#7073B32B</color>
+    <color name="cryo">#89A3D4</color>
+    <color name="cryo_op">#7089A3D4</color>
+    <color name="geo">#DF9240</color>
+    <color name="geo_op">#70DF9240</color>
+
+    <color name="points">#16FFFFFF</color>
+    <color name="pointsTrue">#709FFFE8</color>
+    <color name="pointsFalse">#70FF9254</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

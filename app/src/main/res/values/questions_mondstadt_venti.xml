@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="venti_phrase">«Поведай мне самые сокровенные желания, путешественник!»</string>
+
+    <string name="level_venti">Венти</string>
+    <string name="question_venti_1">Что любит Венти</string>
+    <string name="question_venti_2">В чем проявляется его анемо сила, когда он управляет ветрами</string>
+    <string name="question_venti_3">Какой цветок нравится Венти</string>
+    <string name="question_venti_4">Архонтом чего является Венти</string>
+    <string name="question_venti_5">Какое имя у анемо архонта</string>
+    <string name="question_venti_6">Что означают имена Венти и Барбатус</string>
+    <string name="question_venti_7">На внешности кого основан его облик</string>
+    <string name="question_venti_8">На что аллергия у Венти</string>
+    <string name="question_venti_9">Как называется созвездие Венти</string>
+    <string name="question_venti_10">Как Венти добывает вино, которое ему не продают из-за молодого вида</string>
+    <string name="question_venti_11">Кем был Барбатос во времена Войны Архонтов</string>
+    <string name="question_venti_12">Что мечтал увидеть друг Венти</string>
+    <string name="question_venti_13">Что хотел подарить Венти своему другу</string>
+    <string name="question_venti_14">Что изучал Венти чтобы разыграть гео-архонта</string>
+    <string name="question_venti_15">Почему Барбатос носит поддельный глаз бога</string>
+    <string name="question_venti_16">Что не любит Венти</string>
+    <string name="question_venti_17">Каким городом он велел стать Мондштадту</string>
+
+    <string name="question_venti_1_1">Яблоки и живую атмосферу</string>
+    <string name="question_venti_1_2">Кошек и выпить</string>
+    <string name="question_venti_1_3">Барбару и играть на лире</string>
+    <string name="question_venti_1_4">Ветер и птиц</string>
+
+    <string name="question_venti_2_1">В виде перьев</string>
+    <string name="question_venti_2_2">В виде птиц</string>
+    <string name="question_venti_2_3">Никак</string>
+    <string name="question_venti_2_4">В виде ветряков</string>
+
+    <string name="question_venti_3_1">Сесилия</string>
+    <string name="question_venti_3_2">Одуванчик</string>
+    <string name="question_venti_3_3">Ветряная астра</string>
+    <string name="question_venti_3_4">Трава-светяшка</string>
+
+    <string name="question_venti_4_1">Анемо</string>
+    <string name="question_venti_4_2">Гидро</string>
+    <string name="question_venti_4_3">Гео</string>
+    <string name="question_venti_4_4">Электро</string>
+
+    <string name="question_venti_5_1">Барбатос</string>
+    <string name="question_venti_5_2">Венти</string>
+    <string name="question_venti_5_3">Бангладеш</string>
+    <string name="question_venti_5_4">Вельзевул</string>
+
+    <string name="question_venti_6_1">Ветер и борода</string>
+    <string name="question_venti_6_2">Ветер и старый</string>
+    <string name="question_venti_6_3">Свобода и борода</string>
+    <string name="question_venti_6_4">Свобода и старый</string>
+
+    <string name="question_venti_7_1">Его друга</string>
+    <string name="question_venti_7_2">Его брата</string>
+    <string name="question_venti_7_3">Случайного человека</string>
+    <string name="question_venti_7_4">Прошлого архонта</string>
+
+    <string name="question_venti_8_1">Кошек</string>
+    <string name="question_venti_8_2">Собак</string>
+    <string name="question_venti_8_3">Вино</string>
+    <string name="question_venti_8_4">Дилюка</string>
+
+    <string name="question_venti_9_1">Бог Песен</string>
+    <string name="question_venti_9_2">Архонт Свободы</string>
+    <string name="question_venti_9_3">Бард Ветра</string>
+    <string name="question_venti_9_4">Ветер Перемен</string>
+
+    <string name="question_venti_10_1">Держит кубок в зубах во время выступлений и просит вино вместо моры</string>
+    <string name="question_venti_10_2">Просит купить Розарию или Кэйу</string>
+    <string name="question_venti_10_3">Крадет из погреба, пока Кэйа следит чтобы никто не пришел</string>
+    <string name="question_venti_10_4">Наклеивает поддельную бороду и надевают сапоги на каблуках</string>
+
+    <string name="question_venti_11_1">Мелким элементалем</string>
+    <string name="question_venti_11_2">Простым человеком</string>
+    <string name="question_venti_11_3">Птицей</string>
+    <string name="question_venti_11_4">Анемо архонтом</string>
+
+    <string name="question_venti_12_1">Птиц</string>
+    <string name="question_venti_12_2">Небо</string>
+    <string name="question_venti_12_3">Ветер</string>
+    <string name="question_venti_12_4">Солнце</string>
+
+    <string name="question_venti_13_1">Перо орла</string>
+    <string name="question_venti_13_2">Шоколадный торт</string>
+    <string name="question_venti_13_3">Глаз бога</string>
+    <string name="question_venti_13_4">Мондштадт</string>
+
+    <string name="question_venti_14_1">Подделывание подписей</string>
+    <string name="question_venti_14_2">Частушки про архонтов</string>
+    <string name="question_venti_14_3">Анекдоты про Тарталью</string>
+    <string name="question_venti_14_4">Косплей</string>
+
+    <string name="question_venti_15_1">Чтобы свободно путешествовать в обличье Венти</string>
+    <string name="question_venti_15_2">Чтобы использовать свою силу</string>
+    <string name="question_venti_15_3">Чтобы если что его продать</string>
+    <string name="question_venti_15_4">Просто так</string>
+
+    <string name="question_venti_16_1">Сыры и все липкое</string>
+    <string name="question_venti_16_2">Кошек и дождь</string>
+    <string name="question_venti_16_3">Дилюка и запреты</string>
+    <string name="question_venti_16_4">Гео архонта и лужи</string>
+
+    <string name="question_venti_17_1">Городом сводобы, страной без короля</string>
+    <string name="question_venti_17_2">Городом свобоы, страной ветра</string>
+    <string name="question_venti_17_3">Городом ветра, страной свободы</string>
+    <string name="question_venti_17_4">Городом ветра, страной без короля</string>
+</resources>

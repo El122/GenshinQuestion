@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noelle_phrase">«Предоставьте это мне! Что угодно!»</string>
+
+    <string name="level_noelle">Ноэлль</string>
+    <string name="question_noelle_1">Как называется созвездие Ноэлль</string>
+    <string name="question_noelle_2">Кем мечтает стать Ноэлль</string>
+    <string name="question_noelle_3">Какой любимый цветок у Ноэлль</string>
+    <string name="question_noelle_4">Кем считают люди в Мондштадте Ноэлль</string>
+    <string name="question_noelle_5">Как Ноэлль спасла винный бизнес Мондштадта</string>
+    <string name="question_noelle_6">Кто отвлек Ноэлль, когда она хотела сражаться с Ужасом Бури</string>
+    <string name="question_noelle_7">Почему мастер-кузнец Вагнер хотел уйти жить в лес депрессивным отшельником</string>
+    <string name="question_noelle_8">Самый главный враг Ноэлль</string>
+    <string name="question_noelle_9">Когда Ноэлль получила свой Глаз Бога</string>
+    <string name="question_noelle_10">Какой Глаз Бога у Ноэлль</string>
+    <string name="question_noelle_11">Кем является Ноэлль</string>
+    <string name="question_noelle_12">Что означает роза, которую Ноэлль вышила на перчатке</string>
+    <string name="question_noelle_13">Чем Ноэлль занимается в свободное время</string>
+    <string name="question_noelle_14">Что Ноэлль думает о спорах</string>
+    <string name="question_noelle_15">Какое хобби у Ноэлль</string>
+    <string name="question_noelle_16">Что любит есть Ноэлль</string>
+    <string name="question_noelle_17">Почему Джинн придумывает отдельные небольшие поручения для Ноэлль</string>
+
+    <string name="question_noelle_1_1">Душевный Щит</string>
+    <string name="question_noelle_1_2">Храбрая Горничная</string>
+    <string name="question_noelle_1_3">Щит Роз</string>
+    <string name="question_noelle_1_4">Щит Горничной</string>
+
+    <string name="question_noelle_2_1">Рыцарем Ордо Фавониус</string>
+    <string name="question_noelle_2_2">Горничной Ордо Фавониус</string>
+    <string name="question_noelle_2_3">Искателем приключений</string>
+    <string name="question_noelle_2_4">Героем Мондштадта</string>
+
+    <string name="question_noelle_3_1">Роза</string>
+    <string name="question_noelle_3_2">Сесилия</string>
+    <string name="question_noelle_3_3">Одуванчик</string>
+    <string name="question_noelle_3_4">Ромашка</string>
+
+    <string name="question_noelle_4_1">Горничной на все руки</string>
+    <string name="question_noelle_4_2">Спасительницей Мондштадта</string>
+    <string name="question_noelle_4_3">Идолом</string>
+    <string name="question_noelle_4_4">Святой</string>
+
+    <string name="question_noelle_5_1">Очень хорошо относилась к купцу из Снежной и его семье, который хотел все разрушить, купец подумал что она все знает и сбежал</string>
+    <string name="question_noelle_5_2">Выследила купца из Снежной, который хотел все разрущить и остановила его до того как он успел что-то сделать</string>
+    <string name="question_noelle_5_3">Случайно перекрыла дорогу камнями, когда тренировалась и купец из Снежной не смог проехать и ничего сделать</string>
+    <string name="question_noelle_5_4">Она такого не делала</string>
+
+    <string name="question_noelle_6_1">Кэйа</string>
+    <string name="question_noelle_6_2">Дилюк</string>
+    <string name="question_noelle_6_3">Дела</string>
+    <string name="question_noelle_6_4">Джинн</string>
+
+    <string name="question_noelle_7_1">Ноэлль ломала все мечи, которые он делал</string>
+    <string name="question_noelle_7_2">Ноэлль стала лучшим кузнецом, чем он</string>
+    <string name="question_noelle_7_3">Ноэлль так много ему помогала, что у него не осталось работы</string>
+    <string name="question_noelle_7_4">Она случайно сломала его кузницу, когда тренировалась</string>
+
+    <string name="question_noelle_8_1">Луди Гарпастум</string>
+    <string name="question_noelle_8_2">Лень</string>
+    <string name="question_noelle_8_3">Праздник фонарей</string>
+    <string name="question_noelle_8_4">Кэйа</string>
+
+    <string name="question_noelle_9_1">После того как 7 раз не сдала экзамен</string>
+    <string name="question_noelle_9_2">После того как в первый раз попыталась сдать экзамен</string>
+    <string name="question_noelle_9_3">После того как стала рыцарем </string>
+    <string name="question_noelle_9_4">Перед тем как решила стать рыцарем</string>
+
+    <string name="question_noelle_10_1">Гео</string>
+    <string name="question_noelle_10_2">Дендро</string>
+    <string name="question_noelle_10_3">Гидро</string>
+    <string name="question_noelle_10_4">Пиро</string>
+
+    <string name="question_noelle_11_1">Горничной Ордена</string>
+    <string name="question_noelle_11_2">Рыцарем Ордена</string>
+    <string name="question_noelle_11_3">Учеником Ордена</string>
+    <string name="question_noelle_11_4">Помощником магистра Джинн</string>
+
+    <string name="question_noelle_12_1">Символ печати безмолвия</string>
+    <string name="question_noelle_12_2">Символ любви</string>
+    <string name="question_noelle_12_3">Символ рыцарей Ордо Фавониус</string>
+    <string name="question_noelle_12_4">Символ рода Ноэлль</string>
+
+    <string name="question_noelle_13_1">Тренировками и помощью</string>
+    <string name="question_noelle_13_2">Тренирвовками</string>
+    <string name="question_noelle_13_3">Помощью</string>
+    <string name="question_noelle_13_4">Отдыхает</string>
+
+    <string name="question_noelle_14_1">Что доказывать свою точку зрения нужно не словами, а делами</string>
+    <string name="question_noelle_14_2">Что споры ничем не помогут</string>
+    <string name="question_noelle_14_3">Она не любит спорить и со всем соглашается</string>
+    <string name="question_noelle_14_4">Она ничего о них не думает</string>
+
+    <string name="question_noelle_15_1">Уборка</string>
+    <string name="question_noelle_15_2">Чтение</string>
+    <string name="question_noelle_15_3">Тренировки</string>
+    <string name="question_noelle_15_4">Помощь людям</string>
+
+    <string name="question_noelle_16_1">Салат</string>
+    <string name="question_noelle_16_2">Мясо</string>
+    <string name="question_noelle_16_3">Супы</string>
+    <string name="question_noelle_16_4">Острое</string>
+
+    <string name="question_noelle_17_1">Потому что Ноэлль берет слишком сложные задания</string>
+    <string name="question_noelle_17_2">Джинн не хочет чтобы Ноэлль становилась рыцарем</string>
+    <string name="question_noelle_17_3">Ноэлль не дают обычные задания, потому что она не рыцарь</string>
+    <string name="question_noelle_17_4">Ноэлль делает все сама и не оставляет заданий для других рыцарей</string>
+</resources>

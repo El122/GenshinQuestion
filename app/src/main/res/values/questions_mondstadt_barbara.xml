@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="barbara_phrase">«Настоящее волшебство - это усердие.»</string>
+
+    <string name="level_barbara">Барбара</string>
+    <string name="question_barbara_1">Что Барбара считает секретом своей исцеляющей магии</string>
+    <string name="question_barbara_2">Кем является Барбара</string>
+    <string name="question_barbara_3">Почему жители Мондштадта сначала не впечатлились песнями Барбары</string>
+    <string name="question_barbara_4">Что терзало душу Барбары</string>
+    <string name="question_barbara_5">Кто сестра Барбары</string>
+    <string name="question_barbara_6">Кем является отец Барбары Шеймус</string>
+    <string name="question_barbara_7">На сколько позволяет себе впасть в депрессию Барбара</string>
+    <string name="question_barbara_8">По чьему совету Барбара стала целительницей</string>
+    <string name="question_barbara_9">Как называется созвездие Барбары</string>
+    <string name="question_barbara_10">Какие слова Барбара чаще всего слышит в свой адрес</string>
+    <string name="question_barbara_11">Что является самой большой наградой для Барбары</string>
+    <string name="question_barbara_12">Какое желание есть у Барбары</string>
+    <string name="question_barbara_13">Откуда Барбара узнала о "профессии" идол</string>
+    <string name="question_barbara_14">Какое название Барбара придумала для своей группы</string>
+    <string name="question_barbara_15">Откуда Барбара получила глаз Бога</string>
+    <string name="question_barbara_16">Что сделала Барбара для Кли</string>
+    <string name="question_barbara_17">Какой глаз Бога у Барбары</string>
+
+    <string name="question_barbara_1_1">Усердие и труд</string>
+    <string name="question_barbara_1_2">Силу Анемо Архонта</string>
+    <string name="question_barbara_1_3">Любовь к людям</string>
+    <string name="question_barbara_1_4">Веру в лучшее</string>
+
+    <string name="question_barbara_2_1">Пастором церкви Фавония</string>
+    <string name="question_barbara_2_2">Пастором церкви Анемо Архонта</string>
+    <string name="question_barbara_2_3">Пастором ордена Ордо Фавониус</string>
+    <string name="question_barbara_2_4">Пастором храма Анемо Архонта</string>
+
+    <string name="question_barbara_3_1">Они казались странными, потому что мондштадтцы привыкли к песням бардов</string>
+    <string name="question_barbara_3_2">Барбара не умела петь, пока не получила Глаз Бога</string>
+    <string name="question_barbara_3_3">Они сразу впечатлились песнями Барбары</string>
+    <string name="question_barbara_3_4">Им не понравились печни Барбары</string>
+
+    <string name="question_barbara_4_1">То что ее песни не могли надолго сделать людей счастливыми</string>
+    <string name="question_barbara_4_2">То что Путешественник сломал Небесную Лиру</string>
+    <string name="question_barbara_4_3">То что она постоянно что-то забывала сделать</string>
+    <string name="question_barbara_4_4">То что Розария не разделяет ее веру в Анемо Архонта</string>
+
+    <string name="question_barbara_5_1">Джинн</string>
+    <string name="question_barbara_5_2">Розария</string>
+    <string name="question_barbara_5_3">Дилюк</string>
+    <string name="question_barbara_5_4">Алиса</string>
+
+    <string name="question_barbara_6_1">Кардинал рассвета</string>
+    <string name="question_barbara_6_2">Магистр Ордо Фавониус</string>
+    <string name="question_barbara_6_3">Богатый торговец</string>
+    <string name="question_barbara_6_4">Охотник за сокровищами</string>
+
+    <string name="question_barbara_7_1">30 секунд</string>
+    <string name="question_barbara_7_2">1 неделю</string>
+    <string name="question_barbara_7_3">1 месяц</string>
+    <string name="question_barbara_7_4">10 секунд</string>
+
+    <string name="question_barbara_8_1">Отца</string>
+    <string name="question_barbara_8_2">Сестры</string>
+    <string name="question_barbara_8_3">Подруги</string>
+    <string name="question_barbara_8_4">Анемо Архонта</string>
+
+    <string name="question_barbara_9_1">Золотой Кубок</string>
+    <string name="question_barbara_9_2">Священный Кубок</string>
+    <string name="question_barbara_9_3">Небесный Кубок</string>
+    <string name="question_barbara_9_4">Анемо Кубок</string>
+
+    <string name="question_barbara_10_1">Спасибо</string>
+    <string name="question_barbara_10_2">Я тебя люблю</string>
+    <string name="question_barbara_10_3">Помоги</string>
+    <string name="question_barbara_10_4">Ты мне нравишься</string>
+
+    <string name="question_barbara_11_1">Улыбки на лицах людей, которым она помогает</string>
+    <string name="question_barbara_11_2">Вера людей в Анемо Архонта</string>
+    <string name="question_barbara_11_3">Цветы от фанатов</string>
+    <string name="question_barbara_11_4">Быть пастором церкви Фавония</string>
+
+    <string name="question_barbara_12_1">Превзойти сестру и стать самой популярной в Мондштадте</string>
+    <string name="question_barbara_12_2">Помочь всем людям</string>
+    <string name="question_barbara_12_3">Стать кардиналом церкви Фавония</string>
+    <string name="question_barbara_12_4">Стать самым популярнм идолом Тейвата</string>
+
+    <string name="question_barbara_13_1">Журнал "Альманах идолов"</string>
+    <string name="question_barbara_13_2">От друзей</string>
+    <string name="question_barbara_13_3">От Анемо Архонта</string>
+    <string name="question_barbara_13_4">От другого идола</string>
+
+    <string name="question_barbara_14_1">Титаны Тейвата</string>
+    <string name="question_barbara_14_2">Анемо Сестры</string>
+    <string name="question_barbara_14_3">Группа имени Барбатоса</string>
+    <string name="question_barbara_14_4">Селестия</string>
+
+    <string name="question_barbara_15_1">Он появился после того как она лечила и успокаивала пением болеющего маленького мальчика</string>
+    <string name="question_barbara_15_2">Она спасла Тейвата от огромного количества монстров, когда все рыцари были далеко от города</string>
+    <string name="question_barbara_15_3">Ей дал его лично Анемо Архонт</string>
+    <string name="question_barbara_15_4">Она получила его потому что стала пастором церкви Фавония</string>
+
+    <string name="question_barbara_16_1">Гарпастум</string>
+    <string name="question_barbara_16_2">Молитву</string>
+    <string name="question_barbara_16_3">Додоко</string>
+    <string name="question_barbara_16_4">Стала ее старшей сестрой</string>
+
+    <string name="question_barbara_17_1">Гидро</string>
+    <string name="question_barbara_17_2">Анемо</string>
+    <string name="question_barbara_17_3">Пиро</string>
+    <string name="question_barbara_17_4">Дендро</string>
+</resources>

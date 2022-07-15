@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kaeya_phrase">«Слушать жалобы - это тоже часть работы рыцаря.»</string>
+
+    <string name="level_kaeya">Кэйа</string>
+    <string name="question_kaeya_1">Кем является Кэйа в Ордо Фавониус</string>
+    <string name="question_kaeya_2">Как называется созвездие Кэйи</string>
+    <string name="question_kaeya_3">Что говорит о свое дедушке Кэйа</string>
+    <string name="question_kaeya_4">Любимое вино Кэйи</string>
+    <string name="question_kaeya_5">Кем служит Кэйа</string>
+    <string name="question_kaeya_6">Какая родина у Кэйи</string>
+    <string name="question_kaeya_7">Какое полное имя у Кэйи</string>
+    <string name="question_kaeya_8">После чего братья разошлись</string>
+    <string name="question_kaeya_9">Когда Кэйа получил Глаз Бога</string>
+    <string name="question_kaeya_10">Какой Глаз Бога у Кэйи</string>
+    <string name="question_kaeya_11">При каких условиях появился Глаз Бога у Кэйи</string>
+    <string name="question_kaeya_12">Кем был Кэйа</string>
+    <string name="question_kaeya_13">Что почувствовал Кэйа после смерти Крепуса</string>
+    <string name="question_kaeya_14">Что снижается когда Полуденная смерть вне сезона</string>
+    <string name="question_kaeya_15">Где легче всего найти Кэйу</string>
+    <string name="question_kaeya_16">Как Кэйа получает информаицю</string>
+    <string name="question_kaeya_17">Кто Кэйа в семье Рагнвиндр</string>
+
+    <string name="question_kaeya_1_1">Доверенным помощником Джинн</string>
+    <string name="question_kaeya_1_2">Библиотекарем</string>
+    <string name="question_kaeya_1_3">Рыцарем-горничной</string>
+    <string name="question_kaeya_1_4">Шпионом</string>
+
+    <string name="question_kaeya_2_1">Павлинье Перо</string>
+    <string name="question_kaeya_2_2">Снежный Павлин</string>
+    <string name="question_kaeya_2_3">Перо Павлина</string>
+    <string name="question_kaeya_2_4">Снежное Перо</string>
+
+    <string name="question_kaeya_3_1">Что он был пиратом</string>
+    <string name="question_kaeya_3_2">Что он был Фатуи</string>
+    <string name="question_kaeya_3_3">Что он был главой Ордо Фавониус</string>
+    <string name="question_kaeya_3_4">Что они никогда не встречались</string>
+
+    <string name="question_kaeya_4_1">Полуденная смерть</string>
+    <string name="question_kaeya_4_2">Вино из одуванчиков</string>
+    <string name="question_kaeya_4_3">Вечерняя мгла</string>
+    <string name="question_kaeya_4_4">Лунный переулок</string>
+
+    <string name="question_kaeya_5_1">Капитаном каварелии</string>
+    <string name="question_kaeya_5_2">Капитаном рыцарей</string>
+    <string name="question_kaeya_5_3">Главой ордена</string>
+    <string name="question_kaeya_5_4">Шпионом</string>
+
+    <string name="question_kaeya_6_1">Каэнри\'ах</string>
+    <string name="question_kaeya_6_2">Снежная</string>
+    <string name="question_kaeya_6_3">Сумеру</string>
+    <string name="question_kaeya_6_4">Бездна</string>
+
+    <string name="question_kaeya_7_1">Кэйа Альберих</string>
+    <string name="question_kaeya_7_2">Кэйа Рагнвиндр</string>
+    <string name="question_kaeya_7_3">Кэйа Минчи</string>
+    <string name="question_kaeya_7_4">Кэйа</string>
+
+    <string name="question_kaeya_8_1">После того как Дилюк узнал правду о Кэйе</string>
+    <string name="question_kaeya_8_2">После того как не поделили Джинн</string>
+    <string name="question_kaeya_8_3">После того как Дилюк уехал путешествовать</string>
+    <string name="question_kaeya_8_4">После смерти магистра Крепуса</string>
+
+    <string name="question_kaeya_9_1">Через несколько дней после смерти Крепуса</string>
+    <string name="question_kaeya_9_2">Перед тем как его бросил отец</string>
+    <string name="question_kaeya_9_3">После того как его бросил отец</string>
+    <string name="question_kaeya_9_4">За несколько дней до смерти Крепуса</string>
+
+    <string name="question_kaeya_10_1">Крио</string>
+    <string name="question_kaeya_10_2">Гидро</string>
+    <string name="question_kaeya_10_3">Анемо</string>
+    <string name="question_kaeya_10_4">Дендро</string>
+
+    <string name="question_kaeya_11_1">Во время дуэли с Дилюком после смерти Крепуса</string>
+    <string name="question_kaeya_11_2">После дуэли с Дилюком после смерти Крепуса</string>
+    <string name="question_kaeya_11_3">До дуэли с Дилюком после смерти Крепуса</string>
+    <string name="question_kaeya_11_4">Во время дуэли с Дилюком до смерти Крепуса</string>
+
+    <string name="question_kaeya_12_1">Агентом на службе Каэнри\'ах</string>
+    <string name="question_kaeya_12_2">Шпионом Фатуи</string>
+    <string name="question_kaeya_12_3">Магом Бездны</string>
+    <string name="question_kaeya_12_4">Пиратом</string>
+
+    <string name="question_kaeya_13_1">Свободу</string>
+    <string name="question_kaeya_13_2">Грусть</string>
+    <string name="question_kaeya_13_3">Радость</string>
+    <string name="question_kaeya_13_4">Надежду</string>
+
+    <string name="question_kaeya_14_1">Уровень опасности и отчеты о происшествиях</string>
+    <string name="question_kaeya_14_2">Количество пьяных жителей Мондштадта</string>
+    <string name="question_kaeya_14_3">Время, проводимое Кэйей в баре</string>
+    <string name="question_kaeya_14_4">Уровень ненависти Дионы к алкоголю</string>
+
+    <string name="question_kaeya_15_1">В таверне</string>
+    <string name="question_kaeya_15_2">В штабе Ордо Фавониус</string>
+    <string name="question_kaeya_15_3">В церкви Фавония</string>
+    <string name="question_kaeya_15_4">У себя дома</string>
+
+    <string name="question_kaeya_16_1">В тавернах</string>
+    <string name="question_kaeya_16_2">От шпионов</string>
+    <string name="question_kaeya_16_3">От рыцарей</string>
+    <string name="question_kaeya_16_4">В штабе Ордо Фавониус</string>
+
+    <string name="question_kaeya_17_1">Приемный сын</string>
+    <string name="question_kaeya_17_2">Родной сын</string>
+    <string name="question_kaeya_17_3">Двоюродный брат</string>
+    <string name="question_kaeya_17_4">Лучший друг</string>
+</resources>

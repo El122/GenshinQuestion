@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jean_phrase">«Ветер, услышь меня!»</string>
+
+    <string name="level_jean">Джинн</string>
+    <string name="question_jean_1">Какое полное имя Джинн</string>
+    <string name="question_jean_2">Какой Глаз Бога у Джинн</string>
+    <string name="question_jean_3">Кем является Джинн</string>
+    <string name="question_jean_4">Какой питомец был у Джинн в детстве</string>
+    <string name="question_jean_5">Кто младшая сестра Джинн</string>
+    <string name="question_jean_6">Кем является клан Гуннхильдр</string>
+    <string name="question_jean_7">Что для Джинн на первом месте</string>
+    <string name="question_jean_8">В каком возрасте Джинн получила титул Рыцаря Одуванчика</string>
+    <string name="question_jean_9">Как зовет мать Джинн</string>
+    <string name="question_jean_10">Как зовут отца Джинн</string>
+    <string name="question_jean_11">Что любит делать Джинн</string>
+    <string name="question_jean_12">Кто приготовил летнюю одежду для Джинн во время поездки на архипелаг</string>
+    <string name="question_jean_13">Кто является кумиром Джинн</string>
+    <string name="question_jean_14">Что символизирует титул Рыцаря Одуванчика</string>
+    <string name="question_jean_15">Что предпочла бы Джинн</string>
+    <string name="question_jean_16">Как называется созвездие Джинн</string>
+    <string name="question_jean_17">Как планирует свои дела Джинн</string>
+
+    <string name="question_jean_1_1">Джинн Гуннхильдр</string>
+    <string name="question_jean_1_2">Джинн Рагнвиндр</string>
+    <string name="question_jean_1_3">Джинн Минчи</string>
+    <string name="question_jean_1_4">Джинн Альберхарт</string>
+
+    <string name="question_jean_2_1">Анемо</string>
+    <string name="question_jean_2_2">Гидро</string>
+    <string name="question_jean_2_3">Крио</string>
+    <string name="question_jean_2_4">Дендро</string>
+
+    <string name="question_jean_3_1">Временным действующим магистром Ордо Фавониус</string>
+    <string name="question_jean_3_2">Действующим магистром Ордо Фавониус</string>
+    <string name="question_jean_3_3">Капитаном рыцарей Ордо Фавониус</string>
+    <string name="question_jean_3_4">Главой Мондштадта</string>
+
+    <string name="question_jean_4_1">Черепашка</string>
+    <string name="question_jean_4_2">Дилюк</string>
+    <string name="question_jean_4_3">Кошка</string>
+    <string name="question_jean_4_4">Орел</string>
+
+    <string name="question_jean_5_1">Барбара</string>
+    <string name="question_jean_5_2">Кли</string>
+    <string name="question_jean_5_3">У нее старшая сестра</string>
+    <string name="question_jean_5_4">Лиза</string>
+
+    <string name="question_jean_6_1">Старейшей семьей Мондштадта</string>
+    <string name="question_jean_6_2">Потомками Декарабиана</string>
+    <string name="question_jean_6_3">Основателями Мондштадта</string>
+    <string name="question_jean_6_4">Родом старых аристократов-преступников</string>
+
+    <string name="question_jean_7_1">Долг рыцаря</string>
+    <string name="question_jean_7_2">Должность магистра Ордена</string>
+    <string name="question_jean_7_3">Послеобеденный чай с Лизой</string>
+    <string name="question_jean_7_4">Ее мечта</string>
+
+    <string name="question_jean_8_1">15 лет</string>
+    <string name="question_jean_8_2">12 лет</string>
+    <string name="question_jean_8_3">18 лет</string>
+    <string name="question_jean_8_4">20 лет</string>
+
+    <string name="question_jean_9_1">Фредерика</string>
+    <string name="question_jean_9_2">Венесса</string>
+    <string name="question_jean_9_3">Лиза</string>
+    <string name="question_jean_9_4">Розария</string>
+
+    <string name="question_jean_10_1">Шеймус Пегг</string>
+    <string name="question_jean_10_2">Магистр Варка</string>
+    <string name="question_jean_10_3">Крепус Рагнвиндр</string>
+    <string name="question_jean_10_4">У нее нет отца</string>
+
+    <string name="question_jean_11_1">Читать любовные романы</string>
+    <string name="question_jean_11_2">Работать</string>
+    <string name="question_jean_11_3">Писать стихи</string>
+    <string name="question_jean_11_4">Смотреть на звездное небо</string>
+
+    <string name="question_jean_12_1">Лиза</string>
+    <string name="question_jean_12_2">Барбара</string>
+    <string name="question_jean_12_3">Путешественник</string>
+    <string name="question_jean_12_4">Дилюк</string>
+
+    <string name="question_jean_13_1">Венесса</string>
+    <string name="question_jean_13_2">Барбара</string>
+    <string name="question_jean_13_3">Альбедо</string>
+    <string name="question_jean_13_4">Анемо Архонт</string>
+
+    <string name="question_jean_14_1">Стойкость и великодушие Венессы</string>
+    <string name="question_jean_14_2">Свободу, которую помогла обрести Мондштадту Венесса</string>
+    <string name="question_jean_14_3">Силу и стойкость Мондштадта</string>
+    <string name="question_jean_14_4">Доброту и свободу</string>
+
+    <string name="question_jean_15_1">Быть щитом на страже свободы и песен</string>
+    <string name="question_jean_15_2">Быть пронзающим тьму и порок мечом</string>
+    <string name="question_jean_15_3">Быть рыцарем, защищающим Мондштадт от тьмы</string>
+    <string name="question_jean_15_4">Стать такой же стойкой и великодушной как Венесса</string>
+
+    <string name="question_jean_16_1">Благородная Львица</string>
+    <string name="question_jean_16_2">Великодушная Львица</string>
+    <string name="question_jean_16_3">Благородный Одуванчик</string>
+    <string name="question_jean_16_4">Великодуный Одуванчик</string>
+
+    <string name="question_jean_17_1">Составляет расписание</string>
+    <string name="question_jean_17_2">Составляет список</string>
+    <string name="question_jean_17_3">Делает то что вспомнит</string>
+    <string name="question_jean_17_4">Распределяет обязанности между рыцарями</string>
+</resources>
