@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.graphics.Shader;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -17,11 +19,9 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import java.util.Random;
 
-public class Level_Mondstadt1 extends AppCompatActivity {
+public class Level_Mondstadt_Venti extends AppCompatActivity {
 
     Dialog modalEnd;
 
@@ -106,7 +106,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
 
     public void backToLevelsMenu() {
         try {
-            Intent intent = new Intent(Level_Mondstadt1.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Venti.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}
@@ -114,7 +114,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
 
     protected void checkAnswer(int clickedButton) {
         ImageView questionImage = (ImageView)findViewById(R.id.questionImage);
-        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt1.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt_Venti.this, R.anim.alpha);
 
         if(clickedButton == 0) {
             questionImage.setImageResource(R.drawable.question_image);
@@ -136,6 +136,17 @@ public class Level_Mondstadt1 extends AppCompatActivity {
                             answersResult[questionNumber] == -1 ? R.drawable.style_points_false : R.drawable.style_points_true);
     }
 
+    protected void saveResult() {
+        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+        SharedPreferences.Editor editor = save.edit();
+        int trueAnswers = 0;
+        for(int num : answersResult) {
+            if (num == 1) ++trueAnswers;
+        }
+        editor.putInt("Venti", trueAnswers);
+        editor.commit();
+    }
+
     protected void callDialog() {
         modalEnd = new Dialog(this);
         modalEnd.requestWindowFeature(Window.FEATURE_NO_TITLE);
@@ -154,7 +165,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt1.this, GameLevels_Mondstadt.class);
+                    Intent intent = new Intent(Level_Mondstadt_Venti.this, GameLevels_Mondstadt.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -167,7 +178,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt1.this, Level_Mondstadt_Barbara.class);
+                    Intent intent = new Intent(Level_Mondstadt_Venti.this, Level_Mondstadt_Barbara.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -217,6 +228,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -239,6 +251,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -261,6 +274,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -283,6 +297,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -298,7 +313,7 @@ public class Level_Mondstadt1 extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         try {
-            Intent intent = new Intent(Level_Mondstadt1.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Venti.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}

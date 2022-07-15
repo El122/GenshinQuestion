@@ -2,6 +2,7 @@ package com.ielliena.genshinquestion;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -176,6 +177,17 @@ public class Level_Mondstadt_Jean extends AppCompatActivity {
         modalEnd.show();
     }
 
+    protected void saveResult() {
+        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+        SharedPreferences.Editor editor = save.edit();
+        int trueAnswers = 0;
+        for(int num : answersResult) {
+            if (num == 1) ++trueAnswers;
+        }
+        editor.putInt("Jean", trueAnswers);
+        editor.commit();
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -215,6 +227,7 @@ public class Level_Mondstadt_Jean extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -237,6 +250,7 @@ public class Level_Mondstadt_Jean extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -259,6 +273,7 @@ public class Level_Mondstadt_Jean extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();
@@ -281,6 +296,7 @@ public class Level_Mondstadt_Jean extends AppCompatActivity {
                     ++questionNumber;
 
                     if(questionNumber == 17) {
+                        saveResult();
                         callDialog();
                     } else {
                         setQuestions();

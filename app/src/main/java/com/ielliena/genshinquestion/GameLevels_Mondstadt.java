@@ -1,6 +1,7 @@
 package com.ielliena.genshinquestion;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
@@ -32,12 +33,16 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
             }
         });
 
+        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+
         TextView buttonVenti = (TextView) findViewById(R.id.buttonVenti);
+        final int ventiResult = save.getInt("Venti", 0);
+        buttonVenti.setText(getString(R.string.level_venti) + " " + ventiResult + "/17");
         buttonVenti.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 try{
-                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt1.class);
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Venti.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -45,6 +50,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonBarbara = (TextView) findViewById(R.id.buttonBarbara);
+        final int barbaraResult = save.getInt("Barbara", 0);
+        buttonBarbara.setText(getString(R.string.level_barbara) + " " + barbaraResult + "/17");
         buttonBarbara.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -57,6 +64,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonDiluc = (TextView) findViewById(R.id.buttonDiluc);
+        final int dilucResult = save.getInt("Diluc", 0);
+        buttonDiluc.setText(getString(R.string.level_diluc) + " " + dilucResult + "/17");
         buttonDiluc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -69,6 +78,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonLiza = (TextView) findViewById(R.id.buttonLiza);
+        final int lisaResult = save.getInt("Lisa", 0);
+        buttonLiza.setText(getString(R.string.level_lisa) + " " + lisaResult + "/17");
         buttonLiza.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -81,6 +92,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonKeya = (TextView) findViewById(R.id.buttonKeya);
+        final int keayaResult = save.getInt("Keaya", 0);
+        buttonKeya.setText(getString(R.string.level_kaeya) + " " + keayaResult + "/17");
         buttonKeya.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -93,6 +106,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonNoel = (TextView) findViewById(R.id.buttonNoel);
+        final int noelleResult = save.getInt("Noelle", 0);
+        buttonNoel.setText(getString(R.string.level_noelle) + " " + noelleResult + "/17");
         buttonNoel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -105,6 +120,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonJean = (TextView) findViewById(R.id.buttonJean);
+        final int jeanResult = save.getInt("Jean", 0);
+        buttonJean.setText(getString(R.string.level_jean) + " " + jeanResult + "/17");
         buttonJean.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -117,6 +134,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonMona = (TextView) findViewById(R.id.buttonMona);
+        final int monaResult = save.getInt("Mona", 0);
+        buttonMona.setText(getString(R.string.level_mona) + " " + monaResult + "/17");
         buttonMona.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -129,6 +148,8 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonKlee = (TextView) findViewById(R.id.buttonKlee);
+        final int monaKlee = save.getInt("Klee", 0);
+        buttonKlee.setText(getString(R.string.level_klee) + " " + monaKlee + "/17");
         buttonKlee.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
