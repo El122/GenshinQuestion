@@ -11,8 +11,8 @@
     <string name="question_lisa_6">Что делает Лиза вечером</string>
     <string name="question_lisa_7">От чего происходит ее высокая эффективность во всех делах</string>
     <string name="question_lisa_8">Кем хотели назначить Лизу, когда она только вступила в Ордо Фавониус</string>
-    <string name="question_lisa_9">Почему Лиза покину Сумеру</string>
-    <string name="question_lisa_10">Что Лиза считает самым приятным в своей распорядке</string>
+    <string name="question_lisa_9">Почему Лиза покинула Сумеру</string>
+    <string name="question_lisa_10">Что Лиза считает самым приятным в своем распорядке</string>
     <string name="question_lisa_11">Как Лиза получила Глаз Бога</string>
     <string name="question_lisa_12">Какой Глаз Бога у Лизы</string>
     <string name="question_lisa_13">Как Лиза называет Путешественника</string>
@@ -46,10 +46,10 @@
     <string name="question_lisa_5_3">Отдыхает от работы</string>
     <string name="question_lisa_5_4">Плавает в озере</string>
 
-    <string name="question_lisa_6_1">Отдыхает после рабочего сна</string>
+    <string name="question_lisa_6_1">Отдыхает после рабочего дня</string>
     <string name="question_lisa_6_2">Пьет чай с Джинн</string>
     <string name="question_lisa_6_3">Проверяет все ли книги вернули</string>
-    <string name="question_lisa_6_4">Готовиться ко сну</string>
+    <string name="question_lisa_6_4">Готовится ко сну</string>
 
     <string name="question_lisa_7_1">Из-за врожденной лени и избегающей неприятностей натуры</string>
     <string name="question_lisa_7_2">Из-за высокого уровня ответственности и любви к работе </string>
@@ -87,7 +87,7 @@
     <string name="question_lisa_13_4">Картошка</string>
 
     <string name="question_lisa_14_1">Тыквы</string>
-    <string name="question_lisa_14_2">Тыквы</string>
+    <string name="question_lisa_14_2">Работу</string>
     <string name="question_lisa_14_3">Опасности</string>
     <string name="question_lisa_14_4">Людей</string>
 

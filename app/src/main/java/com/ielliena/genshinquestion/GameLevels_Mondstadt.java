@@ -92,7 +92,7 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
         });
 
         TextView buttonKeya = (TextView) findViewById(R.id.buttonKeya);
-        final int keayaResult = save.getInt("Keaya", 0);
+        final int keayaResult = save.getInt("Kaeya", 0);
         buttonKeya.setText(getString(R.string.level_kaeya) + " " + keayaResult + "/17");
         buttonKeya.setOnClickListener(new View.OnClickListener() {
             @Override
