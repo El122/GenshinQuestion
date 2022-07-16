@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rosaria_phrase">«Я не пою в хоре. И со сверхурочной работой ко мне не обращайтесь.»</string>
+
+    <string name="level_rosaria">Розария</string>
+    <string name="question_rosaria_1">Кем является Розария</string>
+    <string name="question_rosaria_2">Кем считает Розария всех живущих с солнцем мондштадтцев</string>
+    <string name="question_rosaria_3">Почему Розария осталась в Мондштадте</string>
+    <string name="question_rosaria_4">Кто воспитывал Розарию</string>
+    <string name="question_rosaria_5">Как Розария попала в церковь</string>
+    <string name="question_rosaria_6">Когда Розария получила Глаз Бога</string>
+    <string name="question_rosaria_7">Какой Глаз Бога у Розарии</string>
+    <string name="question_rosaria_8">Какие люди нравятся Розарии</string>
+    <string name="question_rosaria_9">Какое хобби у Розарии</string>
+    <string name="question_rosaria_10">Какая еда нравится Роазрии</string>
+    <string name="question_rosaria_11">Какая еда не нравится Розарии</string>
+    <string name="question_rosaria_12">Как называется созвездие Розарии</string>
+    <string name="question_rosaria_13">Что подумала Фишль о Розарии, когда услышала как Розария проклинает кого-то от имени Барбатоса</string>
+    <string name="question_rosaria_14">Почему Розария не посещает хоры</string>
+    <string name="question_rosaria_15">Что Барбара думает о Розарии</string>
+    <string name="question_rosaria_16">Как называется авторская молитва Розарии</string>
+    <string name="question_rosaria_17">Где Путешественник впервые встречает Розарию</string>
+
+    <string name="question_rosaria_1_1">Сестрой церкви Фавония</string>
+    <string name="question_rosaria_1_2">Рыцарем Ордо Фавониус</string>
+    <string name="question_rosaria_1_3">Искателе приключений</string>
+    <string name="question_rosaria_1_4">Сестрой Кэйи</string>
+
+    <string name="question_rosaria_2_1">Молодыми</string>
+    <string name="question_rosaria_2_2">Старыми</string>
+    <string name="question_rosaria_2_3">Смертными</string>
+    <string name="question_rosaria_2_4">Счастливыми</string>
+
+    <string name="question_rosaria_3_1">Из-за свободы</string>
+    <string name="question_rosaria_3_2">Из-за денег</string>
+    <string name="question_rosaria_3_3">Из-за работы</string>
+    <string name="question_rosaria_3_4">Из-за вина</string>
+
+    <string name="question_rosaria_4_1">Разбойники</string>
+    <string name="question_rosaria_4_2">Сестры из церкви Фавония</string>
+    <string name="question_rosaria_4_3">Миллелиты</string>
+    <string name="question_rosaria_4_4">Волки</string>
+
+    <string name="question_rosaria_5_1">Ее отправил туда магистр Варка</string>
+    <string name="question_rosaria_5_2">Ее подобрали сестры из церкви</string>
+    <string name="question_rosaria_5_3">Она сама пришла туда</string>
+    <string name="question_rosaria_5_4">Ее привел туда Кэйа</string>
+
+    <string name="question_rosaria_6_1">Когда победила укравшего его разбойника</string>
+    <string name="question_rosaria_6_2">Когда ее спасли рыцари Ордо Фавониус</string>
+    <string name="question_rosaria_6_3">Когда она попала в церковь Фавония</string>
+    <string name="question_rosaria_6_4">Когда разбойники убили ее родителей</string>
+
+    <string name="question_rosaria_7_1">Крио</string>
+    <string name="question_rosaria_7_2">Анемо</string>
+    <string name="question_rosaria_7_3">Гидро</string>
+    <string name="question_rosaria_7_4">Электро</string>
+
+    <string name="question_rosaria_8_1">С историей</string>
+    <string name="question_rosaria_8_2">С загадкой</string>
+    <string name="question_rosaria_8_3">С вином</string>
+    <string name="question_rosaria_8_4">Никакие</string>
+
+    <string name="question_rosaria_9_1">Алкоголь</string>
+    <string name="question_rosaria_9_2">Вышивание</string>
+    <string name="question_rosaria_9_3">Фехтование</string>
+    <string name="question_rosaria_9_4">Пение</string>
+
+    <string name="question_rosaria_10_1">Мясо с вином</string>
+    <string name="question_rosaria_10_2">Оладушки с вареньем</string>
+    <string name="question_rosaria_10_3">Острые супы</string>
+    <string name="question_rosaria_10_4">Морепродукты</string>
+
+    <string name="question_rosaria_11_1">Оладушки с вареньем</string>
+    <string name="question_rosaria_11_2">Острые супы</string>
+    <string name="question_rosaria_11_3">Морепродукты</string>
+    <string name="question_rosaria_11_4">Мясо с вином</string>
+
+    <string name="question_rosaria_12_1">Терновый Венец</string>
+    <string name="question_rosaria_12_2">Ледяной Венец</string>
+    <string name="question_rosaria_12_3">Северный Венец</string>
+    <string name="question_rosaria_12_4">Судный Венец</string>
+
+    <string name="question_rosaria_13_1">Что она очень благочестивая</string>
+    <string name="question_rosaria_13_2">Что она не верит в Барбатоса</string>
+    <string name="question_rosaria_13_3">Что они знакомы с Барбатосом</string>
+    <string name="question_rosaria_13_4">Такого не было</string>
+
+    <string name="question_rosaria_14_1">Они кажутся ей скучными</string>
+    <string name="question_rosaria_14_2">Она не умеет петь</string>
+    <string name="question_rosaria_14_3">Она стесняется петь</string>
+    <string name="question_rosaria_14_4">Ей не нравится петь</string>
+
+    <string name="question_rosaria_15_1">Что с ней сложно сблизиться</string>
+    <string name="question_rosaria_15_2">Что она очень благочестивая</string>
+    <string name="question_rosaria_15_3">Что она не верит в Барбатоса</string>
+    <string name="question_rosaria_15_4">Что она очень хороший человек</string>
+
+    <string name="question_rosaria_16_1">Обряд кончины</string>
+    <string name="question_rosaria_16_2">Казнящая исповедь</string>
+    <string name="question_rosaria_16_3">Поддерживающая тьма</string>
+    <string name="question_rosaria_16_4">Путь в ночи</string>
+
+    <string name="question_rosaria_17_1">На Снежном хребте</string>
+    <string name="question_rosaria_17_2">В церкви</string>
+    <string name="question_rosaria_17_3">В штабе Ордо Фавониус</string>
+    <string name="question_rosaria_17_4">В Вольфендоме</string>
+</resources>

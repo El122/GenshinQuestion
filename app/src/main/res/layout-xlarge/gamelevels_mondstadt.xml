@@ -223,6 +223,96 @@
                     android:textAllCaps="false"
                     android:textSize="32sp"
                     android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/buttonSucrose"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/btn_anemo"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:text="@string/level_sucrose"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:textSize="32sp"/>
+
+                <TextView
+                    android:id="@+id/buttonAmber"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:background="@drawable/btn_pyro"
+                    android:text="@string/level_amber"
+                    android:textAllCaps="false"
+                    android:textSize="32sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/buttonRazor"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:background="@drawable/btn_electro"
+                    android:text="@string/level_razor"
+                    android:textAllCaps="false"
+                    android:textSize="32sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/buttonRosaria"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:background="@drawable/btn_cryo"
+                    android:text="@string/level_rosaria"
+                    android:textAllCaps="false"
+                    android:textSize="32sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/buttonBennett"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:background="@drawable/btn_pyro"
+                    android:text="@string/level_bennett"
+                    android:textAllCaps="false"
+                    android:textSize="32sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/buttonDiona"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="7dp"
+                    android:background="@drawable/btn_cryo"
+                    android:text="@string/level_diona"
+                    android:textAllCaps="false"
+                    android:textSize="32sp"
+                    android:textColor="@color/white" />
             </LinearLayout>
         </ScrollView>
 

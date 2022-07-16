@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="razor_phrase">«Волчья стая — это моя Лупикал... Моя семья.»</string>
+
+    <string name="level_razor">Рэйзор</string>
+    <string name="question_razor_1">Где живет Рэйзор</string>
+    <string name="question_razor_2">Что означает Лупикал</string>
+    <string name="question_razor_3">Кто стал наставником Рэйзора</string>
+    <string name="question_razor_4">Что хранит в своем деревянном ящике Рэйзор</string>
+    <string name="question_razor_5">Как Рэйзор получил свой Глаз Бога</string>
+    <string name="question_razor_6">Для чего Рэйзор решил использовать свой Глаз Бога</string>
+    <string name="question_razor_7">Какой Глаз Бога у Рэйзора</string>
+    <string name="question_razor_8">Что любит есть Рэйзор</string>
+    <string name="question_razor_9">Что не любит есть Рэйзор</string>
+    <string name="question_razor_10">Кем некоторые люди считают Рэйзора</string>
+    <string name="question_razor_11">В форме чего Рэйзор готовит картофельные оладушки</string>
+    <string name="question_razor_12">Кто научил Рэйзора пользоваться двуручным мечом</string>
+    <string name="question_razor_13">Как называется созвездие Рэйзора</string>
+    <string name="question_razor_14">Кого Рэйзор считает своей семьей</string>
+    <string name="question_razor_15">Кто стал первым другом Рэйзора</string>
+    <string name="question_razor_16">Какие вещи Рэйзор ценит больше всего</string>
+    <string name="question_razor_17">Кто дал имя Рэйзору</string>
+
+    <string name="question_razor_1_1">В Вольфендоме</string>
+    <string name="question_razor_1_2">В Мондштадте</string>
+    <string name="question_razor_1_3">На горе Буревестника</string>
+    <string name="question_razor_1_4">С Беннетом</string>
+
+    <string name="question_razor_2_1">Семья</string>
+    <string name="question_razor_2_2">Друзья</string>
+    <string name="question_razor_2_3">Родственники</string>
+    <string name="question_razor_2_4">Общество</string>
+
+    <string name="question_razor_3_1">Лиза</string>
+    <string name="question_razor_3_2">Джинн</string>
+    <string name="question_razor_3_3">Магистр Варка</string>
+    <string name="question_razor_3_4">Алиса</string>
+
+    <string name="question_razor_4_1">Подарки друзей</string>
+    <string name="question_razor_4_2">Сокровища</string>
+    <string name="question_razor_4_3">Свои вещи</string>
+    <string name="question_razor_4_4">Потерянные путешественниками вещи</string>
+
+    <string name="question_razor_5_1">Когда его пытался украсть маг бездны</string>
+    <string name="question_razor_5_2">Когда он начал учиться у наставника</string>
+    <string name="question_razor_5_3">Когда он понял что он человек</string>
+    <string name="question_razor_5_4">Когда Кли чуть не сожгла Вольфендом</string>
+
+    <string name="question_razor_6_1">Чтобы защищать своих Лупикал</string>
+    <string name="question_razor_6_2">Он решил его не использовать</string>
+    <string name="question_razor_6_3">Чтобы защищать Вольфендом</string>
+    <string name="question_razor_6_4">Чтобы защищать Мондштадт</string>
+
+    <string name="question_razor_7_1">Электро</string>
+    <string name="question_razor_7_2">Дендро</string>
+    <string name="question_razor_7_3">Гидро</string>
+    <string name="question_razor_7_4">Анемо</string>
+
+    <string name="question_razor_8_1">Мясо и картошку</string>
+    <string name="question_razor_8_2">Супы и оладушки</string>
+    <string name="question_razor_8_3">Мясо и овощи</string>
+    <string name="question_razor_8_4">Десерты</string>
+
+    <string name="question_razor_9_1">Траву</string>
+    <string name="question_razor_9_2">Мясо</string>
+    <string name="question_razor_9_3">Фрукты</string>
+    <string name="question_razor_9_4">Рыбу</string>
+
+    <string name="question_razor_10_1">Духом волка</string>
+    <string name="question_razor_10_2">Брошенным ребенком</string>
+    <string name="question_razor_10_3">Волком в теле человека</string>
+    <string name="question_razor_10_4">Страшным чудовищем</string>
+
+    <string name="question_razor_11_1">Волчьих лапок</string>
+    <string name="question_razor_11_2">Кошачьих лапок</string>
+    <string name="question_razor_11_3">Вольчьих мордочек</string>
+    <string name="question_razor_11_4">Кошачьих мордочек</string>
+
+    <string name="question_razor_12_1">Магистр Варка</string>
+    <string name="question_razor_12_2">Дилюк</string>
+    <string name="question_razor_12_3">Лиза</string>
+    <string name="question_razor_12_4">Эола</string>
+
+    <string name="question_razor_13_1">Проворный Волчонок</string>
+    <string name="question_razor_13_2">Храбрый Волк</string>
+    <string name="question_razor_13_3">Величественный Волк</string>
+    <string name="question_razor_13_4">Резвый Волчонок</string>
+
+    <string name="question_razor_14_1">Стаю волков</string>
+    <string name="question_razor_14_2">Лизу</string>
+    <string name="question_razor_14_3">Ордо Фавониус</string>
+    <string name="question_razor_14_4">Беннетта</string>
+
+    <string name="question_razor_15_1">Кли</string>
+    <string name="question_razor_15_2">Лиза</string>
+    <string name="question_razor_15_3">Магистр Варка</string>
+    <string name="question_razor_15_4">Беннет</string>
+
+    <string name="question_razor_16_1">Подарки друзей</string>
+    <string name="question_razor_16_2">Мясо</string>
+    <string name="question_razor_16_3">Свой меч</string>
+    <string name="question_razor_16_4">Никакие</string>
+
+    <string name="question_razor_17_1">Магистр Варка</string>
+    <string name="question_razor_17_2">Лиза</string>
+    <string name="question_razor_17_3">Его стая</string>
+    <string name="question_razor_17_4">Кли</string>
+</resources>

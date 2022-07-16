@@ -202,6 +202,90 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
                 } catch (Exception e) {}
             }
         });
+
+        TextView buttonSucrose = (TextView) findViewById(R.id.buttonSucrose);
+        final int sucroseResult = save.getInt("Sucrose", 0);
+        buttonSucrose.setText(getString(R.string.level_sucrose) + " " + sucroseResult + "/17");
+        buttonSucrose.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Sucrose.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonAmber = (TextView) findViewById(R.id.buttonAmber);
+        final int amberResult = save.getInt("Amber", 0);
+        buttonAmber.setText(getString(R.string.level_amber) + " " + amberResult + "/17");
+        buttonAmber.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Amber.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonRazor = (TextView) findViewById(R.id.buttonRazor);
+        final int razorResult = save.getInt("Razor", 0);
+        buttonRazor.setText(getString(R.string.level_razor) + " " + razorResult + "/17");
+        buttonRazor.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Razor.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonRosaria = (TextView) findViewById(R.id.buttonRosaria);
+        final int rosariaResult = save.getInt("Rosaria", 0);
+        buttonRosaria.setText(getString(R.string.level_rosaria) + " " + rosariaResult + "/17");
+        buttonRosaria.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Rosaria.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonBennett = (TextView) findViewById(R.id.buttonBennett);
+        final int bennettResult = save.getInt("Bennett", 0);
+        buttonBennett.setText(getString(R.string.level_bennett) + " " + bennettResult + "/17");
+        buttonBennett.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Bennett.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
+
+        TextView buttonDiona = (TextView) findViewById(R.id.buttonDiona);
+        final int dionaResult = save.getInt("Diona", 0);
+        buttonDiona.setText(getString(R.string.level_diona) + " " + dionaResult + "/17");
+        buttonDiona.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    Intent intent = new Intent(GameLevels_Mondstadt.this, Level_Mondstadt_Diona.class);
+                    startActivity(intent);
+                    finish();
+                } catch (Exception e) {}
+            }
+        });
     }
 
     @Override

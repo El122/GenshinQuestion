@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diona_phrase">«Я дорого беру за проведение банкетов... Постой, что? Ты здесь не ради выпивки?»</string>
+
+    <string name="level_diona">Диона</string>
+    <string name="question_diona_1">Где родилась Диона</string>
+    <string name="question_diona_2">Как называет себя Диона</string>
+    <string name="question_diona_3">Какая цель у Дионы</string>
+    <string name="question_diona_4">Кем является отец Дионы</string>
+    <string name="question_diona_5">Где работает Диона</string>
+    <string name="question_diona_6">Почему Диону пригласили работать в \"Кошкин хвост\"</string>
+    <string name="question_diona_7">Из-за чего Диона идеально смешивает коктейли</string>
+    <string name="question_diona_8">Кто подарил Дионе фляжку для смешивания коктейлей</string>
+    <string name="question_diona_9">Чего больше всего хотела Диона</string>
+    <string name="question_diona_10">Как Диона получила Глаз Бога</string>
+    <string name="question_diona_11">Почему Диона ненавидит Дилюка</string>
+    <string name="question_diona_12">Какое хобби у Дионы</string>
+    <string name="question_diona_13">Какая еда больше всего нравится Дионе</string>
+    <string name="question_diona_14">Какая еда не нравится Дионе</string>
+    <string name="question_diona_15">Какой Глаз Бога у Дионы</string>
+    <string name="question_diona_16">Кто хочет помочь Дионе разрушить винную индустрию</string>
+    <string name="question_diona_17">Как называется созвездие Дионы</string>
+
+    <string name="question_diona_1_1">В Спрингвейле</string>
+    <string name="question_diona_1_2">В Инадзуме</string>
+    <string name="question_diona_1_3">В Вольфендоме</string>
+    <string name="question_diona_1_4">На Ватацуми</string>
+
+    <string name="question_diona_2_1">Конец винной индустрии</string>
+    <string name="question_diona_2_2">Самый лучший бармен</string>
+    <string name="question_diona_2_3">Та, что разрушить винную индустрию</string>
+    <string name="question_diona_2_4">Кошечкой</string>
+
+    <string name="question_diona_3_1">Разрушить винную индустрию Мондштадта</string>
+    <string name="question_diona_3_2">Уничтожить винокурню \"Рассвет\"</string>
+    <string name="question_diona_3_3">Убить Дилюка</string>
+    <string name="question_diona_3_4">Вырезать всех пьяниц</string>
+
+    <string name="question_diona_4_1">Главным охотником Спрингвейла</string>
+    <string name="question_diona_4_2">Рыцарем Ордо Фавониус</string>
+    <string name="question_diona_4_3">Жрецом Храма Наруками</string>
+    <string name="question_diona_4_4">Искателем приключений</string>
+
+    <string name="question_diona_5_1">В таверне \"Кошкин хвост\"</string>
+    <string name="question_diona_5_2">В таверне \"Доля ангелов\"</string>
+    <string name="question_diona_5_3">На винокурне \"Рассвет\"</string>
+    <string name="question_diona_5_4">В таверне в Спрингвейле</string>
+
+    <string name="question_diona_6_1">Потому что она милая</string>
+    <string name="question_diona_6_2">Потому что она прекрасно смешивает коктейли</string>
+    <string name="question_diona_6_3">Потому что она кошка</string>
+    <string name="question_diona_6_4">Чтобы разрушить винную индустрию изнутри</string>
+
+    <string name="question_diona_7_1">Из-за дара родниковой феи</string>
+    <string name="question_diona_7_2">Она долго училась</string>
+    <string name="question_diona_7_3">Из-за неудачи</string>
+    <string name="question_diona_7_4">Из-за того что она кецлайн</string>
+
+    <string name="question_diona_8_1">Хозяйка \"Кошкиного хвоста\" Маргарита</string>
+    <string name="question_diona_8_2">Отец Дионы Драфф</string>
+    <string name="question_diona_8_3">Бармен из \"Доли ангела\" Эльзер</string>
+    <string name="question_diona_8_4">Посетитель \"Кошкиного хвоста\"</string>
+
+    <string name="question_diona_9_1">Чтобы отец всегда был трезвым</string>
+    <string name="question_diona_9_2">Чтобы вина никогда не существовало</string>
+    <string name="question_diona_9_3">Стать барменом</string>
+    <string name="question_diona_9_4">Стать искателем приключений</string>
+
+    <string name="question_diona_10_1">После того как спасла отца, потерявшегося во время шторма</string>
+    <string name="question_diona_10_2">Это был дар родниковой феи</string>
+    <string name="question_diona_10_3">Все в роду кецлайнов получают Глаз Бога</string>
+    <string name="question_diona_10_4">За то что решила разрущить винную индустрию</string>
+
+    <string name="question_diona_11_1">Она считает без него не было бы вина</string>
+    <string name="question_diona_11_2">Потому что его таверна пользуется большей популярностью</string>
+    <string name="question_diona_11_3">Он забрал часть земель, где охотилась ее семья</string>
+    <string name="question_diona_11_4">Он не взял ее на работу</string>
+
+    <string name="question_diona_12_1">Охота</string>
+    <string name="question_diona_12_2">Приготовление коктейлей</string>
+    <string name="question_diona_12_3">Алхимия</string>
+    <string name="question_diona_12_4">Чтение</string>
+
+    <string name="question_diona_13_1">Рыба</string>
+    <string name="question_diona_13_2">Мясо</string>
+    <string name="question_diona_13_3">Фрукты и овощи</string>
+    <string name="question_diona_13_4">Рис</string>
+
+    <string name="question_diona_14_1">Овощи</string>
+    <string name="question_diona_14_2">Мясо</string>
+    <string name="question_diona_14_3">Рыба</string>
+    <string name="question_diona_14_4">Рис</string>
+
+    <string name="question_diona_15_1">Крио</string>
+    <string name="question_diona_15_2">Анемо</string>
+    <string name="question_diona_15_3">Дендро</string>
+    <string name="question_diona_15_4">Гео</string>
+
+    <string name="question_diona_16_1">Кли</string>
+    <string name="question_diona_16_2">Дилюк</string>
+    <string name="question_diona_16_3">Альбедо</string>
+    <string name="question_diona_16_4">Джинн</string>
+
+    <string name="question_diona_17_1">Милый Котенок</string>
+    <string name="question_diona_17_2">Лунный Кот</string>
+    <string name="question_diona_17_3">Снежная Кошка</string>
+    <string name="question_diona_17_4">Конец Винной Индустрии</string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bennett_phrase">«Какая хорошая погода! Проклятье... Вот уже и дождик собирается...»</string>
+
+    <string name="level_bennett">Беннет</string>
+    <string name="question_bennett_1">Как называется отряд Беннета</string>
+    <string name="question_bennett_2">Почему все покинули отряд Беннета</string>
+    <string name="question_bennett_3">О чем мечтает Беннет</string>
+    <string name="question_bennett_4">Как пал первой жертвой невезения Беннета Джек</string>
+    <string name="question_bennett_5">Кто вывел из строя другого члена отряда Бенни - Ройса</string>
+    <string name="question_bennett_6">Как называл Беннет всех в Гильдии</string>
+    <string name="question_bennett_7">Какой Глаз Бога у Беннета</string>
+    <string name="question_bennett_8">Как Беннет попал в Мондштадт</string>
+    <string name="question_bennett_9">Кто является другом Беннета</string>
+    <string name="question_bennett_10">Зачем Беннет хочет достать самое драгоценное в мире сокровище</string>
+    <string name="question_bennett_11">Что больше всего любит есть Беннет</string>
+    <string name="question_bennett_12">Какая еда не нравится Беннету</string>
+    <string name="question_bennett_13">Кто отравился блюдом Беннета во время его приключения с Путешественником</string>
+    <string name="question_bennett_14">Как Беннет получил Глаз Бога</string>
+    <string name="question_bennett_15">Чему хотел научиться Беннет у Венти</string>
+    <string name="question_bennett_16">Что Беннет обещал Венти за обучение сочинению стихов</string>
+    <string name="question_bennett_17">Как познакомились Беннет и Рэйзор</string>
+
+    <string name="question_bennett_1_1">Отряд Бенни</string>
+    <string name="question_bennett_1_2">Отряд Удачи</string>
+    <string name="question_bennett_1_3">Отряд Беннета</string>
+    <string name="question_bennett_1_4">Отряд Багза Банни</string>
+
+    <string name="question_bennett_2_1">Из-за того что Беннет неудачливый</string>
+    <string name="question_bennett_2_2">Из-за того что они не могли найти ни одного сокровища</string>
+    <string name="question_bennett_2_3">Все участники его отряда умерли</string>
+    <string name="question_bennett_2_4">Все участники его отряда уехали из Мондштадта</string>
+
+    <string name="question_bennett_3_1">Стать великим искателем приключений</string>
+    <string name="question_bennett_3_2">Снова собрать свой отряд</string>
+    <string name="question_bennett_3_3">Найти самое большое сокровище</string>
+    <string name="question_bennett_3_4">Найти своих родителей</string>
+
+    <string name="question_bennett_4_1">Из-за Гео турбулентности</string>
+    <string name="question_bennett_4_2">Из-за Анемо коллизий</string>
+    <string name="question_bennett_4_3">Из-за Пиро лавин</string>
+    <string name="question_bennett_4_4">Из-за Дендро водоворота</string>
+
+    <string name="question_bennett_5_1">Кли</string>
+    <string name="question_bennett_5_2">Беннет</string>
+    <string name="question_bennett_5_3">Розария</string>
+    <string name="question_bennett_5_4">Селестия</string>
+
+    <string name="question_bennett_6_1">Папами</string>
+    <string name="question_bennett_6_2">Мамами</string>
+    <string name="question_bennett_6_3">Бабушками</string>
+    <string name="question_bennett_6_4">Дедушками</string>
+
+    <string name="question_bennett_7_1">Пиро</string>
+    <string name="question_bennett_7_2">Электро</string>
+    <string name="question_bennett_7_3">Крио</string>
+    <string name="question_bennett_7_4">Гидро</string>
+
+    <string name="question_bennett_8_1">Его нашли в подземелье</string>
+    <string name="question_bennett_8_2">Его спасли от магов бездны</string>
+    <string name="question_bennett_8_3">Он сбежал от фатуи</string>
+    <string name="question_bennett_8_4">Он всегда жил в Мондштадте</string>
+
+    <string name="question_bennett_9_1">Рэйзор</string>
+    <string name="question_bennett_9_2">Эмбер</string>
+    <string name="question_bennett_9_3">Ху Тао</string>
+    <string name="question_bennett_9_4">Барбара</string>
+
+    <string name="question_bennett_10_1">Ради гилдии Мондштадта и пап</string>
+    <string name="question_bennett_10_2">Чтобы стать самым великим искателем приключений</string>
+    <string name="question_bennett_10_3">Он думает что в таком случае его неудача пройдет</string>
+    <string name="question_bennett_10_4">Чтобы к его отряду присоединилось больше людей</string>
+
+    <string name="question_bennett_11_1">Мясо</string>
+    <string name="question_bennett_11_2">Суп</string>
+    <string name="question_bennett_11_3">Рыбу</string>
+    <string name="question_bennett_11_4">Салаты</string>
+
+    <string name="question_bennett_12_1">Острая</string>
+    <string name="question_bennett_12_2">Сладкая</string>
+    <string name="question_bennett_12_3">Кислая</string>
+    <string name="question_bennett_12_4">Соленая</string>
+
+    <string name="question_bennett_13_1">Бывший член его отряда</string>
+    <string name="question_bennett_13_2">Путешественник</string>
+    <string name="question_bennett_13_3">Рэйзор</string>
+    <string name="question_bennett_13_4">Хиличурл</string>
+
+    <string name="question_bennett_14_1">Когда чуть не умер и не нашел ни единого сокровища</string>
+    <string name="question_bennett_14_2">Его нашли уже с Глазом Бога</string>
+    <string name="question_bennett_14_3">Когда впервые нашел настоящие сокровища</string>
+    <string name="question_bennett_14_4">Нашел его на дороге</string>
+
+    <string name="question_bennett_15_1">Сочинять стихи</string>
+    <string name="question_bennett_15_2">Играть на лире</string>
+    <string name="question_bennett_15_3">Летать</string>
+    <string name="question_bennett_15_4">Пить</string>
+
+    <string name="question_bennett_16_1">Купить вино</string>
+    <string name="question_bennett_16_2">Заплатить деньги</string>
+    <string name="question_bennett_16_3">Найти сокровище</string>
+    <string name="question_bennett_16_4">Больше никогда не появляться рядом</string>
+
+    <string name="question_bennett_17_1">Когда попали в ловушку в руинах</string>
+    <string name="question_bennett_17_2">Рэйзор охотился на Беннета со стаей</string>
+    <string name="question_bennett_17_3">Беннет спас Рэйзора от мага бездны</string>
+    <string name="question_bennett_17_4">Они встретились на чаепитие у Лизы</string>
+</resources>

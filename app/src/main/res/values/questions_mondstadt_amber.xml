@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amber_phrase">«Скаут Эмбер к заданию готова!»</string>
+
+    <string name="level_amber">Эмбер</string>
+    <string name="question_amber_1">Кем был дедушка Эмбер</string>
+    <string name="question_amber_2">Что основал дедушка Эмбер в Ордо Фавониус</string>
+    <string name="question_amber_3">Что Эмбер записывает в свой дневник</string>
+    <string name="question_amber_4">Что вдохновило Эмбер следовать своим путем</string>
+    <string name="question_amber_5">Как Эмбер получила свой Глаз Бога</string>
+    <string name="question_amber_6">Какой Глаз Бога у Эмбер</string>
+    <string name="question_amber_7">Какую историю Лизы хочет дослушать Эмбер</string>
+    <string name="question_amber_8">Кем является Эмбер в Ордо Фавониус</string>
+    <string name="question_amber_9">Кто лучшая подруга Эмбер</string>
+    <string name="question_amber_10">Как Эмбер относится к загадкам</string>
+    <string name="question_amber_11">Какая еда нелюбимая для Эмбер</string>
+    <string name="question_amber_12">Почему распался отряд скаутов</string>
+    <string name="question_amber_13">Кто такой Барон Зайчик</string>
+    <string name="question_amber_14">Каким чемпионом стала Эмбер</string>
+    <string name="question_amber_15">Чего хочет Эмбер больше всего</string>
+    <string name="question_amber_16">Что больше всего любит пить Эмбер</string>
+    <string name="question_amber_17">Как Эмбер относится к готовке</string>
+
+    <string name="question_amber_1_1">Командиром группы наемников из Ли Юэ</string>
+    <string name="question_amber_1_2">Командиром отряда миллелитов из Ли Юэ</string>
+    <string name="question_amber_1_3">Командиром отряда самураев из Инадзумы</string>
+    <string name="question_amber_1_4">Пиратом</string>
+
+    <string name="question_amber_2_1">Отряд скаутов</string>
+    <string name="question_amber_2_2">Отряд разведчиков</string>
+    <string name="question_amber_2_3">Гильдию искателей приключений</string>
+    <string name="question_amber_2_4">Кавалерию</string>
+
+    <string name="question_amber_3_1">Самые яркие и запоминающиеся события</string>
+    <string name="question_amber_3_2">Наблюдения, полученные во время разведки</string>
+    <string name="question_amber_3_3">Результаты исследований</string>
+    <string name="question_amber_3_4">Местоположение лагерей хиличурлов</string>
+
+    <string name="question_amber_4_1">Книга сказок</string>
+    <string name="question_amber_4_2">Рассказы дедушки</string>
+    <string name="question_amber_4_3">Истории рыцарей</string>
+    <string name="question_amber_4_4">Собственные успехи</string>
+
+    <string name="question_amber_5_1">Когда поняла что есть то что может сделать только она</string>
+    <string name="question_amber_5_2">Когда она смогла стать скаутом</string>
+    <string name="question_amber_5_3">Когда помогала защищать жителей Мондштадта от Ужаса Бури</string>
+    <string name="question_amber_5_4">Когда ей удалось доказать всем что она уже выросла</string>
+
+    <string name="question_amber_6_1">Пиро</string>
+    <string name="question_amber_6_2">Крио</string>
+    <string name="question_amber_6_3">Электро</string>
+    <string name="question_amber_6_4">Гео</string>
+
+    <string name="question_amber_7_1">О сокровище на драконьем хребте</string>
+    <string name="question_amber_7_2">О своем дедушке</string>
+    <string name="question_amber_7_3">О том что она видела в Сумеру</string>
+    <string name="question_amber_7_4">О расположение всех лагерей хиличурлов</string>
+
+    <string name="question_amber_8_1">Скаутом</string>
+    <string name="question_amber_8_2">Разведчиком</string>
+    <string name="question_amber_8_3">Рыцарем</string>
+    <string name="question_amber_8_4">Искателем приключений</string>
+
+    <string name="question_amber_9_1">Эола</string>
+    <string name="question_amber_9_2">Джинн</string>
+    <string name="question_amber_9_3">Кли</string>
+    <string name="question_amber_9_4">Алиса</string>
+
+    <string name="question_amber_10_1">У нее не получается их решать</string>
+    <string name="question_amber_10_2">Она очень любит загадки</string>
+    <string name="question_amber_10_3">Она любит придумывать загадки</string>
+    <string name="question_amber_10_4">Она написала книгу загадок</string>
+
+    <string name="question_amber_11_1">Холодный сок из волчьих крюков</string>
+    <string name="question_amber_11_2">Вино</string>
+    <string name="question_amber_11_3">Холодные салаты без мяса</string>
+    <string name="question_amber_11_4">Острая</string>
+
+    <string name="question_amber_12_1">Среди рыцарей ходили слухи что ее дедушка дезертир</string>
+    <string name="question_amber_12_2">Отряд скаутов не распадался</string>
+    <string name="question_amber_12_3">Отряд скаутов больше был не нужен</string>
+    <string name="question_amber_12_4">Отряд скаутов состоял только из дедушки Эмбер</string>
+
+    <string name="question_amber_13_1">Наследник величественной и запутанной родословной</string>
+    <string name="question_amber_13_2">Созданная Кли специально для Эмбер взрывчатка</string>
+    <string name="question_amber_13_3">Созданная Алисой специально для Эмбер игрушка</string>
+    <string name="question_amber_13_4">Любимая детская игрушка Эмбер</string>
+
+    <string name="question_amber_14_1">Трехкратный чемпион Мондштадта по полетам</string>
+    <string name="question_amber_14_2">Трехкратный чемпион Тейвата по полетам</string>
+    <string name="question_amber_14_3">Трехкратный чемпион Мондштадта по стрельбе из лука</string>
+    <string name="question_amber_14_4">Трехкратным чемпионом Мондштадта по изготовлению взрывчатки</string>
+
+    <string name="question_amber_15_1">Найти своего дедушку</string>
+    <string name="question_amber_15_2">Стать лучшим скаутом Мондштадта</string>
+    <string name="question_amber_15_3">Восстановить отряд скаутов</string>
+    <string name="question_amber_15_4">Чтобы люди хорошо относились к Эоле</string>
+
+    <string name="question_amber_16_1">Кофе</string>
+    <string name="question_amber_16_2">Чай</string>
+    <string name="question_amber_16_3">Сок</string>
+    <string name="question_amber_16_4">Вино</string>
+
+    <string name="question_amber_17_1">Она ужасно готовит, но думает что готовит хорошо</string>
+    <string name="question_amber_17_2">Она прекрасно готовит, но не знает этого</string>
+    <string name="question_amber_17_3">Она ужасно готовит и знает это</string>
+    <string name="question_amber_17_4">Она прекрасно готовит и знает это</string>
+</resources>

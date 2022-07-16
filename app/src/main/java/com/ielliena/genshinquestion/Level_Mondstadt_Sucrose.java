@@ -20,7 +20,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
-public class Level_Mondstadt_Albedo extends AppCompatActivity {
+public class Level_Mondstadt_Sucrose extends AppCompatActivity {
 
     Dialog modalEnd;
 
@@ -85,27 +85,27 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
         Button answer3 = (Button)findViewById(R.id.answer3);
         Button answer4 = (Button)findViewById(R.id.answer4);
 
-        questionText.setText(array.questions_albedo[questionNumber]);
+        questionText.setText(array.questions_sucrose[questionNumber]);
 
         numAnswer1 = random.nextInt(4);
-        answer1.setText(array.answers_albedo[questionNumber][numAnswer1]);
+        answer1.setText(array.answers_sucrose[questionNumber][numAnswer1]);
 
         numAnswer2 = random.nextInt(4);
         while(numAnswer1 == numAnswer2) numAnswer2 = random.nextInt(4);
-        answer2.setText(array.answers_albedo[questionNumber][numAnswer2]);
+        answer2.setText(array.answers_sucrose[questionNumber][numAnswer2]);
 
         numAnswer3 = random.nextInt(4);
         while(numAnswer3 == numAnswer2 || numAnswer3 == numAnswer1) numAnswer3 = random.nextInt(4);
-        answer3.setText(array.answers_albedo[questionNumber][numAnswer3]);
+        answer3.setText(array.answers_sucrose[questionNumber][numAnswer3]);
 
         numAnswer4 = random.nextInt(4);
         while(numAnswer4 == numAnswer2 || numAnswer4 == numAnswer1 || numAnswer4 == numAnswer3) numAnswer4 = random.nextInt(4);
-        answer4.setText(array.answers_albedo[questionNumber][numAnswer4]);
+        answer4.setText(array.answers_sucrose[questionNumber][numAnswer4]);
     }
 
     public void backToLevelsMenu() {
         try {
-            Intent intent = new Intent(Level_Mondstadt_Albedo.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Sucrose.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}
@@ -113,7 +113,7 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
 
     protected void checkAnswer(int clickedButton) {
         ImageView questionImage = (ImageView)findViewById(R.id.questionImage);
-        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt_Albedo.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level_Mondstadt_Sucrose.this, R.anim.alpha);
 
         if(clickedButton == 0) {
             questionImage.setImageResource(R.drawable.question_image);
@@ -142,7 +142,7 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
         for(int num : answersResult) {
             if (num == 1) ++trueAnswers;
         }
-        editor.putInt("Albedo", trueAnswers);
+        editor.putInt("Sucrose", trueAnswers);
         editor.commit();
     }
 
@@ -156,15 +156,15 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
         TextView modalEndText = (TextView) modalEnd.findViewById(R.id.modalEndText);
         ImageView modalEndImage = (ImageView) modalEnd.findViewById(R.id.modalEndImage);
 
-        modalEndText.setText(R.string.albedo_phrase);
-        modalEndImage.setImageResource(R.drawable.modal_albedo);
+        modalEndText.setText(R.string.sucrose_phrase);
+        modalEndImage.setImageResource(R.drawable.modal_sucrose);
 
         TextView backMenu = (TextView) modalEnd.findViewById(R.id.backMenu);
         backMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt_Albedo.this, GameLevels_Mondstadt.class);
+                    Intent intent = new Intent(Level_Mondstadt_Sucrose.this, GameLevels_Mondstadt.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -177,7 +177,7 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(Level_Mondstadt_Albedo.this, Level_Mondstadt_Sucrose.class);
+                    Intent intent = new Intent(Level_Mondstadt_Sucrose.this, Level_Mondstadt_Amber.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}
@@ -205,7 +205,7 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
         });
 
         TextView text_levels = findViewById(R.id.levelName);
-        text_levels.setText(R.string.level_albedo);
+        text_levels.setText(R.string.level_sucrose);
 
         Button answer1 = (Button)findViewById(R.id.answer1);
         Button answer2 = (Button)findViewById(R.id.answer2);
@@ -312,7 +312,7 @@ public class Level_Mondstadt_Albedo extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         try {
-            Intent intent = new Intent(Level_Mondstadt_Albedo.this, GameLevels_Mondstadt.class);
+            Intent intent = new Intent(Level_Mondstadt_Sucrose.this, GameLevels_Mondstadt.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}

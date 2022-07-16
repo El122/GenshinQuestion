@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sucrose_phrase">«А этот я назову... \"Туманный цветок №3, версия 17, увеличение лепестков\".»</string>
+
+    <string name="level_sucrose">Сахароза</string>
+    <string name="question_sucrose_1">Какая область исследования у Сахарозы</string>
+    <string name="question_sucrose_2">За кем месяц следила Сахароза</string>
+    <string name="question_sucrose_3">Что постигла Сахароза за месяц слежки</string>
+    <string name="question_sucrose_4">Что ищет Сахароза, когда раз в три дня выбирается в свет</string>
+    <string name="question_sucrose_5">Что коллекционирует Сахароза</string>
+    <string name="question_sucrose_6">Из-за чего Сахароза заменила свой матерчатый мешок на кожанный</string>
+    <string name="question_sucrose_7">Какое самое яркое воспоминание Сахарозы из дества</string>
+    <string name="question_sucrose_8">Зачем Сахароза начала изучать алхимию</string>
+    <string name="question_sucrose_9">Что Сахароза делала с растениями для Страны чудес</string>
+    <string name="question_sucrose_10">Как Сахароза получила Глаз Бога</string>
+    <string name="question_sucrose_11">Какой Глаз Бога у Сахарозы</string>
+    <string name="question_sucrose_12">Чем является костюм Сахарозы</string>
+    <string name="question_sucrose_13">Почему Сахароза следила за Дионой</string>
+    <string name="question_sucrose_14">Что Сахароза думает о «Цветах для принцессы Фишль»</string>
+    <string name="question_sucrose_15">Сколько лучших друзей было у Сахарозы в детстве</string>
+    <string name="question_sucrose_16">Какая любимая еда Сахарозы</string>
+    <string name="question_sucrose_17">Почему Сахарозе не нравятся грибы</string>
+
+    <string name="question_sucrose_1_1">Биоалхимия</string>
+    <string name="question_sucrose_1_2">Биохимия</string>
+    <string name="question_sucrose_1_3">Биофизика</string>
+    <string name="question_sucrose_1_4">Биология</string>
+
+    <string name="question_sucrose_2_1">Диона</string>
+    <string name="question_sucrose_2_2">Альбедо</string>
+    <string name="question_sucrose_2_3">Кли</string>
+    <string name="question_sucrose_2_4">Беннетт</string>
+
+    <string name="question_sucrose_3_1">Природу мимимишности котят</string>
+    <string name="question_sucrose_3_2">Правила ухода за ушами и хвостом</string>
+    <string name="question_sucrose_3_3">Секреты изготовления коктейлей</string>
+    <string name="question_sucrose_3_4">То что следить за кем-то может быть опасно</string>
+
+    <string name="question_sucrose_4_1">Кости с кровью и мясом</string>
+    <string name="question_sucrose_4_2">Новые объекты исследований</string>
+    <string name="question_sucrose_4_3">Сокровища</string>
+    <string name="question_sucrose_4_4">Новые тома манги</string>
+
+    <string name="question_sucrose_5_1">Скелеты</string>
+    <string name="question_sucrose_5_2">Цветки-сахарки</string>
+    <string name="question_sucrose_5_3">Ящериц</string>
+    <string name="question_sucrose_5_4">Очки</string>
+
+    <string name="question_sucrose_6_1">Из-за страшилки про старуху которая крадет кости</string>
+    <string name="question_sucrose_6_2">В кожаном мешке материалы для исследований лучше сохранялись</string>
+    <string name="question_sucrose_6_3">В матерчатом мешке было видно содержимое</string>
+    <string name="question_sucrose_6_4">Кожанный мешок лучше подходил к внешнему виду Сахарозы</string>
+
+    <string name="question_sucrose_7_1">Страна чудес</string>
+    <string name="question_sucrose_7_2">Нирвана ночи</string>
+    <string name="question_sucrose_7_3">Первое исследование</string>
+    <string name="question_sucrose_7_4">Получение Глаза Бога</string>
+
+    <string name="question_sucrose_8_1">Чтобы создать свой собственный рай - Страну чудес</string>
+    <string name="question_sucrose_8_2">Чтобы изменить этот мир</string>
+    <string name="question_sucrose_8_3">Чтобы создать лекартво от одной болезни</string>
+    <string name="question_sucrose_8_4">Чтобы стать великим алхимиком</string>
+
+    <string name="question_sucrose_9_1">Подвергала жесткому отбору</string>
+    <string name="question_sucrose_9_2">Пыталась научить говорить</string>
+    <string name="question_sucrose_9_3">Проводила над ними эксперименты</string>
+    <string name="question_sucrose_9_4">Бесконечно улучшала</string>
+
+    <string name="question_sucrose_10_1">Когда проводила свой 159-й опыт по варке семян одуванчика</string>
+    <string name="question_sucrose_10_2">Во время 18-го опыта по созданию Страны чудес</string>
+    <string name="question_sucrose_10_3">Когда поняла природу мимимишности котят</string>
+    <string name="question_sucrose_10_4">После того как открыла новый вид цветка-сахарка</string>
+
+    <string name="question_sucrose_11_1">Анемо</string>
+    <string name="question_sucrose_11_2">Гидро</string>
+    <string name="question_sucrose_11_3">Дендро</string>
+    <string name="question_sucrose_11_4">Крио</string>
+
+    <string name="question_sucrose_12_1">Формой алхимика Ордо Фавониус</string>
+    <string name="question_sucrose_12_2">Подарком Джинн</string>
+    <string name="question_sucrose_12_3">Она сшила его сама</string>
+    <string name="question_sucrose_12_4">Формой рыцаря Ордо Фавониус</string>
+
+    <string name="question_sucrose_13_1">Чтобы узнать могут ли они быть родственниками</string>
+    <string name="question_sucrose_13_2">Она хотела узнать секрет мимимишности котят</string>
+    <string name="question_sucrose_13_3">Она хотела узнать секрет создания идеальных коктейлей</string>
+    <string name="question_sucrose_13_4">Ей стало интересно как она моет свой хвост</string>
+
+    <string name="question_sucrose_14_1">Она хотела бы побывать в мире этой книги</string>
+    <string name="question_sucrose_14_2">Она считает эту книгу максимально глупой</string>
+    <string name="question_sucrose_14_3">Она написала эту книгу</string>
+    <string name="question_sucrose_14_4">Она хотела бы познакомиться с автором этой книги</string>
+
+    <string name="question_sucrose_15_1">Двое</string>
+    <string name="question_sucrose_15_2">Трое</string>
+    <string name="question_sucrose_15_3">Один</string>
+    <string name="question_sucrose_15_4">Ни одного</string>
+
+    <string name="question_sucrose_16_1">Сахар</string>
+    <string name="question_sucrose_16_2">Салат</string>
+    <string name="question_sucrose_16_3">Мясо</string>
+    <string name="question_sucrose_16_4">Фрукты</string>
+
+    <string name="question_sucrose_17_1">Потому что они растут на мертвом</string>
+    <string name="question_sucrose_17_2">Потому что они противные</string>
+    <string name="question_sucrose_17_3">Потому что она случайно отравилась ими</string>
+    <string name="question_sucrose_17_4">Потому что ей не нравится их вкус</string>
+</resources>
