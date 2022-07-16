@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    Intent intent = new Intent(MainActivity.this, GameLevels_Mondstadt.class);
+                    Intent intent = new Intent(MainActivity.this, RegionsMenu.class);
                     startActivity(intent);
                     finish();
                 } catch (Exception e) {}

@@ -11,4 +11,6 @@
     <string name="answer4">answer4</string>
     <string name="back_menu">Вернуться в меню</string>
     <string name="next_level">Следующий уровень</string>
+    <string name="liyue">Ли Юэ</string>
+    <string name="inazuma">Инадзума</string>
 </resources>

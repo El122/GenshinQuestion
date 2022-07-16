@@ -12,6 +12,8 @@
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_gydro.xml" value="0.382051282051282" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/btn_pyro.xml" value="0.382051282051282" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/header.xml" value="0.382051282051282" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/next_btn.xml" value="0.37407407407407406" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/prev_btn.xml" value="0.37407407407407406" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/start_btn.xml" value="0.382051282051282" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_active.xml" value="0.382051282051282" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/drawable/style_btn_anemo_active.xml" value="0.382051282051282" />
@@ -41,15 +43,19 @@
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-normal/universal_mondstat.xml" value="0.36730072463768115" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-smal/activity_main.xml" value="0.371875" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/activity_main.xml" value="1.25" />
-        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/gamelevels_mondstadt.xml" value="1.0769230769230769" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/gamelevels_mondstadt.xml" value="0.7219413549039434" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-small/universal_mondstat.xml" value="1.1428571428571428" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/activity_main.xml" value="0.24969211822660098" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/gamelevels_mondstadt.xml" value="0.24969211822660098" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout-xlarge/universal_mondstat.xml" value="0.21" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/activity_regions_menu.xml" value="0.338768115942029" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels.xml" value="0.371875" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels_inazuma.xml" value="0.338768115942029" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels_liyue.xml" value="0.338768115942029" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/gamelevels_mondstadt.xml" value="0.371875" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/modalend.xml" value="0.20885416666666667" />
+        <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/regions_menu.xml" value="0.33" />
         <entry key="..\:/Files Data/GenshinQuestion/app/src/main/res/layout/universal_mondstat.xml" value="0.371875" />
       </map>
     </option>
