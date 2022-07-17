@@ -38,7 +38,7 @@ public class GameLevels_Inazuma extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         try {
-            Intent intent = new Intent(GameLevels_Inazuma.this, MainActivity.class);
+            Intent intent = new Intent(GameLevels_Inazuma.this, RegionsMenu.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}

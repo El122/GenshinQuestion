@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qiqi_phrase">«Я Ци Ци, я зомби&#8230; Ээ, а чего дальше говорить?»</string>
+
+    <string name="level_qiqi">Ци Ци</string>
+    <string name="question_qiqi_1">В какой цвет покрашены ногти Ци Ци</string>
+    <string name="question_qiqi_2">Кто такая Ци Ци</string>
+    <string name="question_qiqi_3">Что делает Ци Ци чтобы сохранять гибкость тела</string>
+    <string name="question_qiqi_4">Как остановить выполнение приказа Ци Ци</string>
+    <string name="question_qiqi_5">Благодаря кому Ци Ци не умерла полностью</string>
+    <string name="question_qiqi_6">Что стало с ожившей Ци Ци</string>
+    <string name="question_qiqi_7">Почему Ци Ци пришлось заключить в янтарь</string>
+    <string name="question_qiqi_8">Когда Ци Ци получила Глаз Бога</string>
+    <string name="question_qiqi_9">Что нравится Ци Ци</string>
+    <string name="question_qiqi_10">Как Ци Ци предотвращает нагревание и разложение</string>
+    <string name="question_qiqi_11">Как называется этот талисман</string>
+    <string name="question_qiqi_12">Какой Глаз Бога у Ци Ци</string>
+    <string name="question_qiqi_13">Что Ху Тао хочет сделать с Ци Ци</string>
+    <string name="question_qiqi_14">Кто отдает приказы Ци Ци</string>
+    <string name="question_qiqi_15">Чего больше всего хотела Ци Ци перед смертью</string>
+    <string name="question_qiqi_16">Чем Адепты признали тоску смертных по прошлому</string>
+    <string name="question_qiqi_17">Благодаря чему Ци Ци может быстро двигаться</string>
+
+    <string name="question_qiqi_1_1">Черный</string>
+    <string name="question_qiqi_1_2">Белый</string>
+    <string name="question_qiqi_1_3">Красный</string>
+    <string name="question_qiqi_1_4">Фиолетовый</string>
+
+    <string name="question_qiqi_2_1">Зомби</string>
+    <string name="question_qiqi_2_2">Кецлайн</string>
+    <string name="question_qiqi_2_3">Человек</string>
+    <string name="question_qiqi_2_4">Оборотень</string>
+
+    <string name="question_qiqi_3_1">Гимнастические упражнения</string>
+    <string name="question_qiqi_3_2">Ест мозги</string>
+    <string name="question_qiqi_3_3">Бегает от Ху Тао</string>
+    <string name="question_qiqi_3_4">Пьет лекарства</string>
+
+    <string name="question_qiqi_4_1">Приобнять и сказать что-то вроде \"ты мне нравишься\"</string>
+    <string name="question_qiqi_4_2">Дать новый приказ</string>
+    <string name="question_qiqi_4_3">Подождать пока Ци Ци забудет приказ который выполняет</string>
+    <string name="question_qiqi_4_4">Накормить ее заоблачным перчиком</string>
+
+    <string name="question_qiqi_5_1">Адептам</string>
+    <string name="question_qiqi_5_2">Чжун Ли</string>
+    <string name="question_qiqi_5_3">Яксам</string>
+    <string name="question_qiqi_5_4">Силе Глаза Бога</string>
+
+    <string name="question_qiqi_6_1">Ее заключили в янтарь</string>
+    <string name="question_qiqi_6_2">Ее вернули в город</string>
+    <string name="question_qiqi_6_3">Ее оставили у себя Адепты</string>
+    <string name="question_qiqi_6_4">Ее просто отпустили</string>
+
+    <string name="question_qiqi_7_1">Сила Адептов повергла ее в безумие</string>
+    <string name="question_qiqi_7_2">Ее не заключали в янтарь</string>
+    <string name="question_qiqi_7_3">Она попала туда случайно, когда возвращалась домой</string>
+    <string name="question_qiqi_7_4">Чтобы ее труп перестал разлагаться</string>
+
+    <string name="question_qiqi_8_1">В последние мгновения жизни</string>
+    <string name="question_qiqi_8_2">В детстве</string>
+    <string name="question_qiqi_8_3">Когда попала к Бай Чжу</string>
+    <string name="question_qiqi_8_4">После того как случайно попалась Ху Тао</string>
+
+    <string name="question_qiqi_9_1">Кокосовое молоко</string>
+    <string name="question_qiqi_9_2">Острая еда</string>
+    <string name="question_qiqi_9_3">Супы</string>
+    <string name="question_qiqi_9_4">Ничего</string>
+
+    <string name="question_qiqi_10_1">С помощью талисмана</string>
+    <string name="question_qiqi_10_2">С помощью лекарст Бай Чжу</string>
+    <string name="question_qiqi_10_3">С помощью Глаза Бога</string>
+    <string name="question_qiqi_10_4">Благодаря гимнастическим упражнениям</string>
+
+    <string name="question_qiqi_11_1">Талисман Ледяной крови</string>
+    <string name="question_qiqi_11_2">Талисман-холодильник</string>
+    <string name="question_qiqi_11_3">Талисман Снежных гор</string>
+    <string name="question_qiqi_11_4">Талисман Мятной стужи</string>
+
+    <string name="question_qiqi_12_1">Крио</string>
+    <string name="question_qiqi_12_2">Гидро</string>
+    <string name="question_qiqi_12_3">Анемо</string>
+    <string name="question_qiqi_12_4">Дендро</string>
+
+    <string name="question_qiqi_13_1">Закопать</string>
+    <string name="question_qiqi_13_2">Заморозить</string>
+    <string name="question_qiqi_13_3">Убить</string>
+    <string name="question_qiqi_13_4">Воскресить</string>
+
+    <string name="question_qiqi_14_1">Ци Ци</string>
+    <string name="question_qiqi_14_2">Бай Чжу</string>
+    <string name="question_qiqi_14_3">Ху Тао</string>
+    <string name="question_qiqi_14_4">Чжун Ли</string>
+
+    <string name="question_qiqi_15_1">Остановить время и вернуться в полные радости дни</string>
+    <string name="question_qiqi_15_2">Выжить</string>
+    <string name="question_qiqi_15_3">Вернуться в прошлое и не идти в это место вновь</string>
+    <string name="question_qiqi_15_4">Стать зомби</string>
+
+    <string name="question_qiqi_16_1">Желанием защищать прошлое</string>
+    <string name="question_qiqi_16_2">Желанием вернуться в прошлое</string>
+    <string name="question_qiqi_16_3">Желанием изменить прошлое</string>
+    <string name="question_qiqi_16_4">Глупостью</string>
+
+    <string name="question_qiqi_17_1">Низкому росту</string>
+    <string name="question_qiqi_17_2">Тому что она зомби</string>
+    <string name="question_qiqi_17_3">Гиманстическим упражнениям</string>
+    <string name="question_qiqi_17_4">Приказам</string>
+</resources>

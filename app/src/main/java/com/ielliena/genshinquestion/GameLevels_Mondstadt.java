@@ -291,7 +291,7 @@ public class GameLevels_Mondstadt extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         try {
-            Intent intent = new Intent(GameLevels_Mondstadt.this, MainActivity.class);
+            Intent intent = new Intent(GameLevels_Mondstadt.this, RegionsMenu.class);
             startActivity(intent);
             finish();
         } catch (Exception e) {}
